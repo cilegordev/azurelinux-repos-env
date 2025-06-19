@@ -13,8 +13,8 @@
 ├── e
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
 ├── f
-│   ├── Flat-Adwaita-0-1.azl3.noarch.rpm
-│   └── ffmpeg-5.0.3-1.azl3.x86_64.rpm
+│   ├── ffmpeg-5.0.3-1.azl3.x86_64.rpm
+│   └── Flat-Adwaita-0-1.azl3.noarch.rpm
 ├── g
 │   ├── garcon-4.18.2-1.azl3.x86_64.rpm
 │   ├── gigolo-0.5.3-1.azl3.x86_64.rpm
@@ -24,15 +24,17 @@
 │   ├── gstreamer1-plugins-good-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-libav-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-ugly-1.20.0-1.azl3.x86_64.rpm
-│   ├── gtk-layer-shell-0.9.0-1.azl3.x86_64.rpm
 │   ├── gtk4-4.14.5-1.azl3.x86_64.rpm
 │   ├── gtk4-layer-shell-1.0.3-1.azl3.x86_64.rpm
+│   ├── gtk-layer-shell-0.9.0-1.azl3.x86_64.rpm
 │   ├── gtkmm4-4.14.0-1.azl3.x86_64.rpm
 │   ├── gtksourceview3-3.24.11-1.azl3.x86_64.rpm
+│   ├── gtk-vnc2-1.5.0-1.azl3.x86_64.rpm
 │   ├── gvfs-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvfs-client-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvfs-fuse-1.56.1-1.azl3.x86_64.rpm
-│   └── gvfs-mtp-1.56.1-1.azl3.x86_64.rpm
+│   ├── gvfs-mtp-1.56.1-1.azl3.x86_64.rpm
+│   └── gvnc-1.5.0-1.azl3.x86_64.rpm
 ├── h
 │   ├── hyprcursor-0.1.10-1.azl3.x86_64.rpm
 │   ├── hyprland-0.42.0-1.azl3.x86_64.rpm
@@ -46,7 +48,6 @@
 ├── k
 │   └── kernel-non-free-6.6.85.1-4.azl3.x86_64.rpm
 ├── l
-│   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-0.2.0-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-tools-0.2.0-1.azl3.x86_64.rpm
@@ -66,6 +67,7 @@
 │   ├── libx264-0.164.3103-1.azl3.x86_64.rpm
 │   ├── libx265-3.5-1.azl3.x86_64.rpm
 │   ├── libxfce4ui-4.18.6-1.azl3.x86_64.rpm
+│   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
 │   └── ly-0.6.0-1.azl3.x86_64.rpm
 ├── m
 │   ├── menulibre-2.3.2-1.azl3.noarch.rpm
@@ -73,21 +75,21 @@
 │   ├── mousepad-0.6.3-1.azl3.x86_64.rpm
 │   └── mugshot-0.4.3-1.azl3.noarch.rpm
 ├── n
+│   ├── neofetch-7.1.1-1.azl3.noarch.rpm
 │   ├── NetworkManager-1.51.4-1.azl3.x86_64.rpm
 │   ├── NetworkManager-applet-1.36.0-1.azl3.x86_64.rpm
 │   ├── NetworkManager-nmcli-1.51.4-1.azl3.x86_64.rpm
 │   ├── NetworkManager-nmtui-1.51.4-1.azl3.x86_64.rpm
 │   ├── NetworkManager-wifi-1.51.4-1.azl3.x86_64.rpm
-│   ├── neofetch-7.1.1-1.azl3.noarch.rpm
 │   ├── nm-connection-editor-1.36.0-1.azl3.x86_64.rpm
 │   ├── nm-connection-editor-desktop-1.36.0-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
 ├── p
-│   ├── PlusJakartaSans-fonts-2.7.1-1.azl3.noarch.rpm
 │   ├── pangomm-2.50.2-1.azl3.x86_64.rpm
 │   ├── parole-4.18.1-1.azl3.x86_64.rpm
 │   ├── pavucontrol-6.1-1.azl3.x86_64.rpm
+│   ├── PlusJakartaSans-fonts-2.7.1-1.azl3.noarch.rpm
 │   └── python3-distutils-extra-2.39-1.azl3.noarch.rpm
 ├── q
 ├── r
@@ -103,6 +105,8 @@
 │   └── tumbler-4.18.2-1.azl3.x86_64.rpm
 ├── u
 ├── v
+│   ├── virt-manager-5.0.0-1.azl3.noarch.rpm
+│   └── virt-manager-common-5.0.0-1.azl3.noarch.rpm
 ├── w
 ├── x
 │   ├── xarchiver-0.5.4.25-1.azl3.x86_64.rpm
@@ -142,4 +146,4 @@
     ├── zram-999-1.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 113 files
+26 directories, 117 files
