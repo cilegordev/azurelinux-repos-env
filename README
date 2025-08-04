@@ -24,19 +24,19 @@
 │   ├── gstreamer1-plugins-good-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-libav-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-ugly-1.20.0-1.azl3.x86_64.rpm
+│   ├── gtk-layer-shell-0.9.0-1.azl3.x86_64.rpm
+│   ├── gtk-vnc2-1.5.0-1.azl3.x86_64.rpm
 │   ├── gtk4-4.14.5-1.azl3.x86_64.rpm
 │   ├── gtk4-layer-shell-1.0.3-1.azl3.x86_64.rpm
-│   ├── gtk-layer-shell-0.9.0-1.azl3.x86_64.rpm
 │   ├── gtkmm4-4.14.0-1.azl3.x86_64.rpm
 │   ├── gtksourceview3-3.24.11-1.azl3.x86_64.rpm
-│   ├── gtk-vnc2-1.5.0-1.azl3.x86_64.rpm
 │   ├── gvfs-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvfs-client-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvfs-fuse-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvfs-mtp-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvnc-1.5.0-1.azl3.x86_64.rpm
-│   ├── gvncpulse-1.5.0-1.azl3.x86_64.rpm
-│   └── gvnc-tools-1.5.0-1.azl3.x86_64.rpm
+│   ├── gvnc-tools-1.5.0-1.azl3.x86_64.rpm
+│   └── gvncpulse-1.5.0-1.azl3.x86_64.rpm
 ├── h
 │   ├── hyprcursor-0.1.10-1.azl3.x86_64.rpm
 │   ├── hyprland-0.42.0-1.azl3.x86_64.rpm
@@ -48,6 +48,10 @@
 │   └── iwgtk-0.9-1.azl3.x86_64.rpm
 ├── j
 ├── k
+│   ├── kernel-6.6.85.1-4.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.85.1-4.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.85.1-4.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.85.1-4.azl3.x86_64.rpm
 │   └── kernel-non-free-6.6.85.1-4.azl3.x86_64.rpm
 ├── l
 │   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
@@ -149,4 +153,4 @@
     ├── zram-999-1.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 120 files
+26 directories, 124 files
