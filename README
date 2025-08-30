@@ -38,6 +38,7 @@
 │   ├── gvnc-tools-1.5.0-1.azl3.x86_64.rpm
 │   └── gvncpulse-1.5.0-1.azl3.x86_64.rpm
 ├── h
+│   ├── hyprbar-1.0.0-1.azl3.x86_64.rpm
 │   ├── hyprcursor-0.1.10-1.azl3.x86_64.rpm
 │   ├── hyprland-0.42.0-1.azl3.x86_64.rpm
 │   ├── hyprlang-0.5.3-1.azl3.x86_64.rpm
@@ -48,11 +49,18 @@
 │   └── iwgtk-0.9-1.azl3.x86_64.rpm
 ├── j
 ├── k
-│   ├── kernel-6.6.85.1-4.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.85.1-4.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.85.1-4.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.85.1-4.azl3.x86_64.rpm
-│   └── kernel-non-free-6.6.85.1-4.azl3.x86_64.rpm
+│   ├── kernel-6.12.0-rc1.EOL.x86_64.rpm
+│   ├── kernel-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.12.0-rc1.EOL.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.12.0-rc1.EOL.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.12.0-rc1.EOL.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-headers-6.12.0-rc1.EOL.noarch.rpm
+│   ├── kernel-headers-6.6.85.1-5.azl3.noarch.rpm
+│   ├── kernel-non-free-6.12.0-rc1.EOL.x86_64.rpm
+│   └── kernel-non-free-6.6.85.1-5.azl3.x86_64.rpm
 ├── l
 │   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
@@ -125,6 +133,7 @@
 │   ├── xfce4-cpugraph-plugin-1.2.10-1.azl3.x86_64.rpm
 │   ├── xfce4-dev-tools-4.18.1-1.azl3.x86_64.rpm
 │   ├── xfce4-docklike-plugin-0.4.2-1.azl3.x86_64.rpm
+│   ├── xfce4-genmon-plugin-4.2.0-1.azl3.x86_64.rpm
 │   ├── xfce4-icon-theme-4.18.0-1.azl3.noarch.rpm
 │   ├── xfce4-netload-plugin-1.4.1-1.azl3.x86_64.rpm
 │   ├── xfce4-notifyd-0.9.6-1.azl3.x86_64.rpm
@@ -153,4 +162,4 @@
     ├── zram-999-1.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 124 files
+26 directories, 133 files
