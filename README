@@ -7,7 +7,7 @@
 ├── b
 │   └── brightnessctl-0.5.1-1.azl3.x86_64.rpm
 ├── c
-│   ├── cairomm-1.16.0-1.azl3.x86_64.rpm
+│   ├── cairomm-1.16.0-1STANDALONE.azl3.x86_64.rpm
 │   └── catfish-4.18.0-1.azl3.noarch.rpm
 ├── d
 ├── e
@@ -50,17 +50,18 @@
 ├── j
 ├── k
 │   ├── kernel-6.12.0-rc1.EOL.x86_64.rpm
-│   ├── kernel-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-drivers-gpu-6.12.0-rc1.EOL.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-drivers-intree-amdgpu-6.12.0-rc1.EOL.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-drivers-sound-6.12.0-rc1.EOL.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-headers-6.12.0-rc1.EOL.noarch.rpm
-│   ├── kernel-headers-6.6.85.1-5.azl3.noarch.rpm
+│   ├── kernel-headers-6.6.85.1-4STANDALONE.azl3.noarch.rpm
 │   ├── kernel-non-free-6.12.0-rc1.EOL.x86_64.rpm
-│   └── kernel-non-free-6.6.85.1-5.azl3.x86_64.rpm
+│   ├── kernel-non-free-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
+│   └── kmod-30-1STANDALONE.azl3.x86_64.rpm
 ├── l
 │   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
@@ -69,7 +70,7 @@
 │   ├── liberation-fonts-2.1.5-1.azl3.noarch.rpm
 │   ├── libgtop2-2.41.3-1.azl3.x86_64.rpm
 │   ├── libhandy1-1.8.3-1.azl3.x86_64.rpm
-│   ├── libinput-1.27.1-1.azl3.x86_64.rpm
+│   ├── libinput-1.27.1-1STANDALONE.azl3.x86_64.rpm
 │   ├── libliftoff-0.5.0-1.azl3.x86_64.rpm
 │   ├── libmousepad0-0.6.3-1.azl3.x86_64.rpm
 │   ├── libnm-1.51.4-1.azl3.x86_64.rpm
@@ -85,7 +86,21 @@
 │   └── ly-0.6.0-1.azl3.x86_64.rpm
 ├── m
 │   ├── menulibre-2.3.2-1.azl3.noarch.rpm
-│   ├── mesa-dri-drivers-extras-24.0.1-2.azl3.x86_64.rpm
+│   ├── mesa-dri-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-dri-drivers-extras-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-filesystem-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libEGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libEGL-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libGL-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libGLU-9.0.3-1STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libGLU-devel-9.0.3-1STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libOSMesa-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libOSMesa-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libgbm-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libgbm-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libglapi-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-vulkan-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mousepad-0.6.3-1.azl3.x86_64.rpm
 │   └── mugshot-0.4.3-1.azl3.noarch.rpm
 ├── n
@@ -162,4 +177,4 @@
     ├── zram-999-1.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 133 files
+26 directories, 148 files
