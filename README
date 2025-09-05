@@ -3,7 +3,9 @@
 ----------------------------------------------------------------
 .
 ├── a
-│   └── aquamarine-0.4.4-1.azl3.x86_64.rpm
+│   ├── aquamarine-0.4.4-1.azl3.x86_64.rpm
+│   ├── azurelinux-repos-microsoft-edge-3.0-1.azl3.noarch.rpm
+│   └── azurelinux-repos-microsoft-visual-studio-code-3.0-1.azl3.noarch.rpm
 ├── b
 │   └── brightnessctl-0.5.1-1.azl3.x86_64.rpm
 ├── c
@@ -177,4 +179,4 @@
     ├── zram-999-1.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 148 files
+26 directories, 150 files
