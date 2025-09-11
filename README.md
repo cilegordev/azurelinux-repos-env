@@ -1,8 +1,8 @@
-<p align="center"><img src="https://raw.githubusercontent.com/cilegordev/cilegordev/refs/heads/main/assets/WSL.png" height="128px" weight="128px" alt="WSL"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/cilegordev/cilegordev/refs/heads/main/assets/WSL.png" height="148px" weight="148px" alt="WSL"></p>
 
-<h1 align="center">Azure Linux Desktop Experience.</h1>
+<h1 align="center">Azure Linux Desktop Experience</h1>
 
-<p align="center">Enable DE/WM like Xfce or Hyprland</p>
+<p align="center"> Enable GUI DE/WM like Xfce or Hyprland </p>
 
 <hr>
 
