@@ -10,12 +10,12 @@
 │   └── brightnessctl-0.5.1-1.azl3.x86_64.rpm
 ├── c
 │   ├── cairomm-1.16.0-1STANDALONE.azl3.x86_64.rpm
-│   └── catfish-4.18.0-1.azl3.noarch.rpm
+│   └── catfish-4.18.0-1.azl3.x86_64.rpm
 ├── d
 ├── e
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
 ├── f
-│   ├── Flat-Adwaita-0-1.azl3.noarch.rpm
+│   ├── Flat-Adwaita-0-1.azl3.x86_64.rpm
 │   └── ffmpeg-5.0.3-1.azl3.x86_64.rpm
 ├── g
 │   ├── garcon-4.18.2-1.azl3.x86_64.rpm
@@ -69,7 +69,7 @@
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-0.2.0-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-tools-0.2.0-1.azl3.x86_64.rpm
-│   ├── liberation-fonts-2.1.5-1.azl3.noarch.rpm
+│   ├── liberation-fonts-2.1.5-1.azl3.x86_64.rpm
 │   ├── libgtop2-2.41.3-1.azl3.x86_64.rpm
 │   ├── libhandy1-1.8.3-1.azl3.x86_64.rpm
 │   ├── libinput-1.27.1-1STANDALONE.azl3.x86_64.rpm
@@ -87,7 +87,7 @@
 │   ├── libxfce4ui-4.18.6-1.azl3.x86_64.rpm
 │   └── ly-0.6.0-1.azl3.x86_64.rpm
 ├── m
-│   ├── menulibre-2.3.2-1.azl3.noarch.rpm
+│   ├── menulibre-2.3.2-1.azl3.x86_64.rpm
 │   ├── mesa-dri-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-dri-drivers-extras-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-filesystem-24.0.1-2STANDALONE.azl3.x86_64.rpm
@@ -104,24 +104,24 @@
 │   ├── mesa-libglapi-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-vulkan-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mousepad-0.6.3-1.azl3.x86_64.rpm
-│   └── mugshot-0.4.3-1.azl3.noarch.rpm
+│   └── mugshot-0.4.3-1.azl3.x86_64.rpm
 ├── n
 │   ├── NetworkManager-1.51.4-1.azl3.x86_64.rpm
 │   ├── NetworkManager-applet-1.36.0-1.azl3.x86_64.rpm
 │   ├── NetworkManager-nmcli-1.51.4-1.azl3.x86_64.rpm
 │   ├── NetworkManager-nmtui-1.51.4-1.azl3.x86_64.rpm
 │   ├── NetworkManager-wifi-1.51.4-1.azl3.x86_64.rpm
-│   ├── neofetch-7.1.1-1.azl3.noarch.rpm
+│   ├── neofetch-7.1.1-1.azl3.x86_64.rpm
 │   ├── nm-connection-editor-1.36.0-1.azl3.x86_64.rpm
 │   ├── nm-connection-editor-desktop-1.36.0-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
 ├── p
-│   ├── PlusJakartaSans-fonts-2.7.1-1.azl3.noarch.rpm
+│   ├── PlusJakartaSans-fonts-2.7.1-1.azl3.x86_64.rpm
 │   ├── pangomm-2.50.2-1.azl3.x86_64.rpm
 │   ├── parole-4.18.1-1.azl3.x86_64.rpm
 │   ├── pavucontrol-6.1-1.azl3.x86_64.rpm
-│   └── python3-distutils-extra-2.39-1.azl3.noarch.rpm
+│   └── python3-distutils-extra-2.39-1.azl3.x86_64.rpm
 ├── q
 ├── r
 │   ├── radeontop-1.4-1.azl3.x86_64.rpm
@@ -136,9 +136,9 @@
 │   └── tumbler-4.18.2-1.azl3.x86_64.rpm
 ├── u
 ├── v
-│   ├── virt-install-5.0.0-1.azl3.noarch.rpm
-│   ├── virt-manager-5.0.0-1.azl3.noarch.rpm
-│   └── virt-manager-common-5.0.0-1.azl3.noarch.rpm
+│   ├── virt-install-5.0.0-1.azl3.x86_64.rpm
+│   ├── virt-manager-5.0.0-1.azl3.x86_64.rpm
+│   └── virt-manager-common-5.0.0-1.azl3.x86_64.rpm
 ├── w
 ├── x
 │   ├── xarchiver-0.5.4.25-1.azl3.x86_64.rpm
@@ -152,13 +152,13 @@
 │   ├── xfce4-dev-tools-4.18.1-1.azl3.x86_64.rpm
 │   ├── xfce4-docklike-plugin-0.4.2-1.azl3.x86_64.rpm
 │   ├── xfce4-genmon-plugin-4.2.0-1.azl3.x86_64.rpm
-│   ├── xfce4-icon-theme-4.18.0-1.azl3.noarch.rpm
+│   ├── xfce4-icon-theme-4.18.0-1.azl3.x86_64.rpm
 │   ├── xfce4-netload-plugin-1.4.1-1.azl3.x86_64.rpm
 │   ├── xfce4-notifyd-0.9.6-1.azl3.x86_64.rpm
 │   ├── xfce4-panel-4.18.6-1.azl3.x86_64.rpm
-│   ├── xfce4-panel-profiles-1.0.14-1.azl3.noarch.rpm
+│   ├── xfce4-panel-profiles-1.0.14-1.azl3.x86_64.rpm
 │   ├── xfce4-polkit-0.3.1-3.azl3.x86_64.rpm
-│   ├── xfce4-polkit-plugin-1-1.azl3.noarch.rpm
+│   ├── xfce4-polkit-plugin-1-1.azl3.x86_64.rpm
 │   ├── xfce4-power-manager-4.18.4-1.azl3.x86_64.rpm
 │   ├── xfce4-pulseaudio-plugin-0.4.9-1.azl3.x86_64.rpm
 │   ├── xfce4-screensaver-4.18.3-1.azl3.x86_64.rpm
@@ -178,7 +178,7 @@
 │   └── xorg-x11-drv-vesa-2.6.0-2.azl3.x86_64.rpm
 ├── y
 └── z
-    ├── zram-999-1.azl3.noarch.rpm
-    └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
+    ├── zram-999-1.azl3.x86_64.rpm
+    └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
 26 directories, 152 files
