@@ -1,0 +1,31 @@
+    About 152 packages
+
+    A. In this repo you can see, my commits are usually just simple descriptions 
+    like rebuild, update, new package addition, optimization, or hotfix. Why?
+    Because I package and debug everything alone without any feedback. There’s a 
+    lot that needs adjusting, or sometimes I just forget to input a small piece of
+    code. If I force an upgrade to a new release in the .spec, there would be way
+    too many versions coming out, and they’d only be small improvements based on
+    my debugging experience. That’s very inefficient, so I prefer to do rebuilds.
+
+    B. There are some STANDALONE packages. What are those? They’re packages
+    patched to be compatible with the DE/WM being used — especially for crucial
+    parts like drivers.
+
+    C. About kernel-6.12-rc1.EOL, there’s actually nothing special about it. 
+    "Short story" before I got to this many packages, I was confused why so many
+    things didn’t work properly compared to popular Linux distros. It turned out
+    that a lot of features simply weren’t enabled in kernel-6.6.x. So
+    kernel-6.12-rc1.EOL was the first kernel I studied and added to the 
+    repository. Note that kernel-6.12-rc1.EOL is a custom kernel I built to test 
+    the "zstd" feature. That’s why if you want to install it, you’ll need
+    "kmod-30-1STANDALONE" for it to run.
+
+    D. There are a few custom packages that I made myself, including indoterm,
+    hyprbar, xfce4-polkit-plugins, and zram.
+
+    E. The packages I provide are quite limited because I tend to repeat or refine
+    what already exists instead of wrapping too many packages with weak
+    improvements. If the latest commit status says rebuild, just know that I’m 
+    perfecting it so that it works flawlessly on a fresh install — but not
+    necessarily with upgrades, huffft.
