@@ -26,3 +26,7 @@
    ```
 
 2. **You can install on a vm or baremetal**
+
+## Need help?
+
+**You can send me an email.**
