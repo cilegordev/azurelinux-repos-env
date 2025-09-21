@@ -1,4 +1,4 @@
-    About 155 packages
+    About 154 packages
 
     A. In this repo you can see, my commits are usually just simple descriptions 
     like rebuild, update, new package addition, optimization, or hotfix. Why?
@@ -29,3 +29,8 @@
     improvements. If the latest commit status says rebuild, just know that I’m 
     perfecting it so that it works flawlessly on a fresh install — but not
     necessarily with upgrades, huffft.
+
+    F. If you need a fast way to get Xfce or Hyprland preconfigured, you can 
+    install azurelinux-desktop-xfce-packages or 
+    azurelinux-window-hyprland-packages. These are meta-packages that can turn it
+    into a ready-to-use Linux system.
