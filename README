@@ -19,12 +19,13 @@
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
 ├── f
 │   ├── Flat-Adwaita-0-2.azl3.x86_64.rpm
-│   └── ffmpeg-5.0.3-1.azl3.x86_64.rpm
+│   └── ffmpeg-5.1.7-1.azl3.x86_64.rpm
 ├── g
 │   ├── garcon-4.18.2-1.azl3.x86_64.rpm
 │   ├── gigolo-0.5.3-1.azl3.x86_64.rpm
 │   ├── gnome-disk-utility-46.1-1.azl3.x86_64.rpm
 │   ├── gnome-menus-3.36.0-1.azl3.x86_64.rpm
+│   ├── gpu-screen-recorder-4.1.11-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-bad-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-good-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-libav-1.20.0-1.azl3.x86_64.rpm
@@ -107,6 +108,7 @@
 │   ├── mesa-libgbm-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libgbm-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libglapi-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-va-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-vulkan-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mousepad-0.6.3-2.azl3.x86_64.rpm
 │   └── mugshot-0.4.3-1.azl3.x86_64.rpm
@@ -120,6 +122,7 @@
 │   ├── neofetch-7.1.1-1.azl3.x86_64.rpm
 │   ├── nm-connection-editor-1.36.0-1.azl3.x86_64.rpm
 │   ├── nm-connection-editor-desktop-1.36.0-1.azl3.x86_64.rpm
+│   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
 ├── p
@@ -189,4 +192,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 160 files
+26 directories, 163 files
