@@ -4,7 +4,7 @@
 .
 ├── a
 │   ├── aquamarine-0.4.4-1.azl3.x86_64.rpm
-│   ├── azurelinux-baremetal-packages-3.0-1.azl3.noarch.rpm
+│   ├── azurelinux-baremetal-amdgpu-packages-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-desktop-xfce-packages-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-repos-microsoft-edge-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-repos-microsoft-visual-studio-code-3.0-1.azl3.noarch.rpm
@@ -133,9 +133,10 @@
 │   └── python3-distutils-extra-2.39-1.azl3.x86_64.rpm
 ├── q
 ├── r
+│   ├── radeon-firmware-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   ├── radeontop-1.4-1.azl3.x86_64.rpm
 │   ├── ristretto-0.13.2-1.azl3.x86_64.rpm
-│   └── rtw88-firmware-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
+│   └── rtl-firmware-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 ├── s
 │   └── seatd-0.9.1-1.azl3.x86_64.rpm
 ├── t
@@ -192,4 +193,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 163 files
+26 directories, 164 files
