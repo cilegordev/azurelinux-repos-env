@@ -59,19 +59,12 @@
 ├── i
 ├── j
 ├── k
-│   ├── kernel-6.12.0-rc1.EOL.x86_64.rpm
 │   ├── kernel-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-devel-6.12.0-rc1.EOL.x86_64.rpm
 │   ├── kernel-devel-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.12.0-rc1.EOL.x86_64.rpm
 │   ├── kernel-drivers-gpu-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.12.0-rc1.EOL.x86_64.rpm
 │   ├── kernel-drivers-intree-amdgpu-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.12.0-rc1.EOL.x86_64.rpm
 │   ├── kernel-drivers-sound-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-headers-6.12.0-rc1.EOL.noarch.rpm
 │   ├── kernel-headers-6.6.85.1-4STANDALONE.azl3.noarch.rpm
-│   ├── kernel-non-free-6.12.0-rc1.EOL.x86_64.rpm
 │   ├── kernel-non-free-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   └── kmod-30-1STANDALONE.azl3.x86_64.rpm
 ├── l
@@ -89,11 +82,13 @@
 │   ├── libopus-1.5.2-1.azl3.x86_64.rpm
 │   ├── libseat-0.9.1-1.azl3.x86_64.rpm
 │   ├── libudis86-1.7.2-1.azl3.x86_64.rpm
+│   ├── libudisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
 │   ├── libx264-0.164.3103-1.azl3.x86_64.rpm
 │   ├── libx265-3.5-1.azl3.x86_64.rpm
 │   ├── libxfce4ui-4.18.6-2.azl3.x86_64.rpm
 │   └── ly-0.6.0-1.azl3.x86_64.rpm
 ├── m
+│   ├── mediatek-firmware-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   ├── menulibre-2.3.2-1.azl3.x86_64.rpm
 │   ├── mesa-demos-9.0.0-1.azl3.x86_64.rpm
 │   ├── mesa-dri-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
@@ -140,6 +135,7 @@
 │   ├── ristretto-0.13.2-1.azl3.x86_64.rpm
 │   └── rtl-firmware-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 ├── s
+│   ├── sdbus-cpp-1.3.0-3STANDALONE.azl3.x86_64.rpm
 │   └── seatd-0.9.1-1.azl3.x86_64.rpm
 ├── t
 │   ├── Thunar-4.18.11-3.azl3.x86_64.rpm
@@ -149,6 +145,8 @@
 │   ├── tomlplusplus-3.4.0-1.azl3.x86_64.rpm
 │   └── tumbler-4.18.2-1.azl3.x86_64.rpm
 ├── u
+│   ├── udisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
+│   └── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
 ├── v
 │   ├── virt-install-5.0.0-1.azl3.x86_64.rpm
 │   ├── virt-manager-5.0.0-1.azl3.x86_64.rpm
@@ -195,4 +193,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 166 files
+26 directories, 164 files
