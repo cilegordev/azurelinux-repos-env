@@ -32,6 +32,7 @@
 │   ├── gstreamer1-plugins-good-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-libav-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-ugly-1.20.0-1.azl3.x86_64.rpm
+│   ├── gthumb-3.12.7-1.azl3.x86_64.rpm
 │   ├── gtk-layer-shell-0.9.0-1.azl3.x86_64.rpm
 │   ├── gtk-vnc2-1.5.0-1.azl3.x86_64.rpm
 │   ├── gtk4-4.14.5-2.azl3.x86_64.rpm
@@ -194,4 +195,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 165 files
+26 directories, 166 files
