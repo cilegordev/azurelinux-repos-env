@@ -16,36 +16,18 @@
     }
 
     @keyframes fadeInFromLeft {
-      from {
-        opacity: 0;
-        transform: translateX(-20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateX(0);
-      }
+      from { opacity: 0; transform: translateX(-20px); }
+      to   { opacity: 1; transform: translateX(0); }
     }
 
     @keyframes fadeInFromRight {
-      from {
-        opacity: 0;
-        transform: translateX(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateX(0);
-      }
+      from { opacity: 0; transform: translateX(20px); }
+      to   { opacity: 1; transform: translateX(0); }
     }
 
     @keyframes fadeInFromBottomLeft {
-      from {
-        opacity: 0;
-        transform: translate(-20px, 20px);
-      }
-      to {
-        opacity: 1;
-        transform: translate(0, 0);
-      }
+      from { opacity: 0; transform: translate(-20px, 20px); }
+      to   { opacity: 1; transform: translate(0, 0); }
     }
 
     .image-wrapper {
@@ -86,7 +68,7 @@
     .content {
       position: relative;
       z-index: 2;
-      padding: 30px 20px;
+      padding: 38px 28px;
       max-width: 600px;
       animation: fadeInFromLeft 1s ease-out forwards;
     }
@@ -105,24 +87,32 @@
       margin: 0;
     }
 
-    li {
-      margin: 8px 0;
+  li {
+    display: flex;
+    align-items: center;
+    padding: 6px 8px;
+    margin-bottom: 4px;   
+  }
+
+    li:last-child {
+      border-bottom: none;        
+    }
+
+    .icon {
+      display: inline-block;
+      width: 1.2em;
+      margin-right: 0.5em;
     }
 
     a {
       text-decoration: none;
       color: #4ea8ff;
       font-weight: 500;
+      flex: 1;                    
     }
 
     a:hover {
       text-decoration: underline;
-    }
-
-    .icon {
-      display: inline-block;
-      width: 1em;
-      margin-right: 0.5em;
     }
 
     .corner-icons {
@@ -147,20 +137,9 @@
     }
 
     @media screen and (max-height: 500px) and (orientation: landscape) {
-      .image-wrapper {
-        right: 0;
-        left: auto;
+      .image-wrapper, .content, .corner-icons {
         animation: none;
       }
-
-      .content {
-        animation: none;
-      }
-
-      .corner-icons {
-        animation: none;
-      }
-
       .image-blend::before {
         width: 400px;
       }
@@ -203,11 +182,7 @@
         object-position: left top;
       }
 
-      .content {
-        animation: none;
-      }
-
-      .corner-icons {
+      .content, .corner-icons {
         animation: none;
       }
     }
@@ -223,8 +198,7 @@
   <div class="content">
     <h1>Index of /</h1>
     <ul>
-      <img src="https://github.com/fluidicon.png" alt="icon" class="icon" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 4px;">
-      <a href="https://www.github.com/cilegordev/azurelinux-repos-env">.@github</a>
+      <li><img src="https://github.com/fluidicon.png" alt="icon" class="icon" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 4px;"><a href="https://www.github.com/cilegordev/azurelinux-repos-env">.@github</a></li>
       <li><span class="icon">📁</span><a href="packages/index.html">packages/</a></li>
       <li><span class="icon">📄</span><a href="https://raw.githubusercontent.com/cilegordev/azurelinux-repos-env/refs/heads/Extended/azurelinux-env.repo">config.repo</a></li>
       <li><span class="icon">📁</span><a href="repodata/index.html">repodata/</a></li>

@@ -146,7 +146,8 @@
 │   └── tumbler-4.18.2-1.azl3.x86_64.rpm
 ├── u
 │   ├── udisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
-│   └── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
+│   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
+│   └── usbutils-017-2STANDALONE.azl3.x86_64.rpm
 ├── v
 │   ├── virt-install-5.0.0-1.azl3.x86_64.rpm
 │   ├── virt-manager-5.0.0-1.azl3.x86_64.rpm
@@ -193,4 +194,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 164 files
+26 directories, 165 files
