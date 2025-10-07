@@ -124,6 +124,8 @@
 │   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
+│   ├── onboard-1.4.1-1.azl3.x86_64.rpm
+│   └── onboard-data-1.4.1-1.azl3.x86_64.rpm
 ├── p
 │   ├── PlusJakartaSans-fonts-2.7.1-1.azl3.x86_64.rpm
 │   ├── pangomm-2.50.2-1.azl3.x86_64.rpm
@@ -196,4 +198,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 167 files
+26 directories, 169 files
