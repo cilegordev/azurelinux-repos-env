@@ -35,7 +35,11 @@
     azurelinux-window-hyprland-packages. These are meta-packages that can turn it
     into a ready-to-use Linux system.
     
-    G. News maintenance not bug just reminder for me
+    G. Back to F if you install on vbox, vmware or kvm install 
+    azurelinux-gui-vm-packages. this package is core of xfce and use xinit,
+    fbdev and vesa. so no need gpu driver.
+    
+    H. News maintenance not bug just reminder for me
     1. can't change auto bash to zsh 
     2. imposible to auto icons.screen0-<res>.rc 
     3. i don't know to fix lid close blinking on xfce4-power-manager
