@@ -138,6 +138,7 @@
 │   ├── parole-4.18.1-1.azl3.x86_64.rpm
 │   ├── pavucontrol-6.1-1.azl3.x86_64.rpm
 │   ├── pinentry-1.2.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── plymouth-24.004.60-1.azl3.x86_64.rpm
 │   └── python3-distutils-extra-2.39-1.azl3.x86_64.rpm
 ├── q
 ├── r
@@ -195,7 +196,7 @@
 │   ├── xfce4-taskmanager-1.5.7-1.azl3.x86_64.rpm
 │   ├── xfce4-terminal-1.1.4-1.azl3.x86_64.rpm
 │   ├── xfce4-whiskermenu-plugin-2.8.3-1.azl3.x86_64.rpm
-│   ├── xfdesktop-4.18.1-1.azl3.x86_64.rpm
+│   ├── xfdesktop4-4.18.1-1.azl3.x86_64.rpm
 │   ├── xfwm4-4.18.0-1.azl3.x86_64.rpm
 │   ├── xorg-x11-drv-amdgpu-23.0.0-1.azl3.x86_64.rpm
 │   ├── xorg-x11-drv-ati-22.0.0-1.azl3.x86_64.rpm
@@ -206,4 +207,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 177 files
+26 directories, 178 files
