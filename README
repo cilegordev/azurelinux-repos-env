@@ -15,17 +15,22 @@
 │   └── brightnessctl-0.5.1-1.azl3.x86_64.rpm
 ├── c
 │   ├── cairomm-1.16.0-1STANDALONE.azl3.x86_64.rpm
-│   └── catfish-4.18.0-1.azl3.x86_64.rpm
+│   ├── catfish-4.18.0-1.azl3.x86_64.rpm
+│   └── cups-filters-2.0.1-1.azl3.x86_64.rpm
 ├── d
 ├── e
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
 ├── f
 │   ├── Flat-Adwaita-0-2.azl3.x86_64.rpm
 │   ├── ffmpeg-5.1.7-1.azl3.x86_64.rpm
+│   ├── ffmpegthumbnailer-2.2.3-1.azl3.x86_64.rpm
 │   ├── firefox-128.14.0esr-1.azl3.x86_64.rpm
 │   └── freerdp3-3.16.0-1.azl3.x86_64.rpm
 ├── g
 │   ├── garcon-4.18.2-1.azl3.x86_64.rpm
+│   ├── ghostscript-10.03.1-1.azl3.x86_64.rpm
+│   ├── ghostscript-tools-fontutils-10.03.1-1.azl3.x86_64.rpm
+│   ├── ghostscript-tools-printing-10.03.1-1.azl3.x86_64.rpm
 │   ├── gigolo-0.5.3-1.azl3.x86_64.rpm
 │   ├── gnome-disk-utility-46.1-1.azl3.x86_64.rpm
 │   ├── gnome-keyring-3.36.0-3STANDALONE.azl3.x86_64.rpm
@@ -65,6 +70,7 @@
 │   └── hyprutils-0.2.3-1.azl3.x86_64.rpm
 ├── i
 ├── j
+│   └── jbig2dec-0.20-1.azl3.x86_64.rpm
 ├── k
 │   ├── kernel-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-devel-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
@@ -77,9 +83,12 @@
 ├── l
 │   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
+│   ├── libcupsfilters-2.1.1-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-0.2.0-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-tools-0.2.0-1.azl3.x86_64.rpm
 │   ├── liberation-fonts-2.1.5-1.azl3.x86_64.rpm
+│   ├── libgepub-0.7.3-1.azl3.x86_64.rpm
+│   ├── libgs-10.03.1-1.azl3.x86_64.rpm
 │   ├── libgtop2-2.41.3-1.azl3.x86_64.rpm
 │   ├── libhandy1-1.8.3-1.azl3.x86_64.rpm
 │   ├── libinput-1.27.1-1STANDALONE.azl3.x86_64.rpm
@@ -87,6 +96,7 @@
 │   ├── libnm-1.51.4-1.azl3.x86_64.rpm
 │   ├── libnma-1.10.6-1.azl3.x86_64.rpm
 │   ├── libopus-1.5.2-1.azl3.x86_64.rpm
+│   ├── libppd-2.1.1-1.azl3.x86_64.rpm
 │   ├── libseat-0.9.1-1.azl3.x86_64.rpm
 │   ├── libudis86-1.7.2-1.azl3.x86_64.rpm
 │   ├── libudisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
@@ -139,6 +149,10 @@
 │   ├── pavucontrol-6.1-1.azl3.x86_64.rpm
 │   ├── pinentry-1.2.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── plymouth-24.004.60-1.azl3.x86_64.rpm
+│   ├── poppler-24.08.0-1.azl3.x86_64.rpm
+│   ├── poppler-cpp-24.08.0-1.azl3.x86_64.rpm
+│   ├── poppler-glib-24.08.0-1.azl3.x86_64.rpm
+│   ├── poppler-utils-24.08.0-1.azl3.x86_64.rpm
 │   └── python3-distutils-extra-2.39-1.azl3.x86_64.rpm
 ├── q
 ├── r
@@ -155,7 +169,7 @@
 │   ├── thunar-archive-plugin-0.5.2-1.azl3.x86_64.rpm
 │   ├── thunar-volman-4.18.0-1.azl3.x86_64.rpm
 │   ├── tomlplusplus-3.4.0-1.azl3.x86_64.rpm
-│   └── tumbler-4.18.2-1.azl3.x86_64.rpm
+│   └── tumbler-4.18.2-2.azl3.x86_64.rpm
 ├── u
 │   ├── udisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
 │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
@@ -207,4 +221,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 178 files
+26 directories, 192 files
