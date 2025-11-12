@@ -29,8 +29,8 @@
 ├── g
 │   ├── garcon-4.18.2-1.azl3.x86_64.rpm
 │   ├── ghostscript-10.03.1-1.azl3.x86_64.rpm
-│   ├── ghostscript-tools-fontutils-10.03.1-1.azl3.x86_64.rpm
-│   ├── ghostscript-tools-printing-10.03.1-1.azl3.x86_64.rpm
+│   ├── ghostscript-fontutils-10.03.1-1.azl3.x86_64.rpm
+│   ├── ghostscript-printing-10.03.1-1.azl3.x86_64.rpm
 │   ├── gigolo-0.5.3-1.azl3.x86_64.rpm
 │   ├── gnome-disk-utility-46.1-1.azl3.x86_64.rpm
 │   ├── gnome-keyring-3.36.0-3STANDALONE.azl3.x86_64.rpm
@@ -44,6 +44,7 @@
 │   ├── gthumb-3.12.7-1.azl3.x86_64.rpm
 │   ├── gtk-layer-shell-0.9.0-1.azl3.x86_64.rpm
 │   ├── gtk-vnc2-1.5.0-1.azl3.x86_64.rpm
+│   ├── gtk-vnc2-pulseaudio-1.5.0-1.azl3.x86_64.rpm
 │   ├── gtk4-4.14.5-2.azl3.x86_64.rpm
 │   ├── gtk4-demos-4.14.5-2.azl3.x86_64.rpm
 │   ├── gtk4-layer-shell-1.0.3-1.azl3.x86_64.rpm
@@ -54,10 +55,7 @@
 │   ├── gvfs-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvfs-client-1.56.1-1.azl3.x86_64.rpm
 │   ├── gvfs-fuse-1.56.1-1.azl3.x86_64.rpm
-│   ├── gvfs-mtp-1.56.1-1.azl3.x86_64.rpm
-│   ├── gvnc-1.5.0-1.azl3.x86_64.rpm
-│   ├── gvnc-tools-1.5.0-1.azl3.x86_64.rpm
-│   └── gvncpulse-1.5.0-1.azl3.x86_64.rpm
+│   └── gvfs-mtp-1.56.1-1.azl3.x86_64.rpm
 ├── h
 │   ├── hyprbar-1.0.2-1.azl3.x86_64.rpm
 │   ├── hyprcursor-0.1.10-1.azl3.x86_64.rpm
@@ -85,7 +83,6 @@
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
 │   ├── libcupsfilters-2.1.1-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-0.2.0-1.azl3.x86_64.rpm
-│   ├── libdisplay-info-tools-0.2.0-1.azl3.x86_64.rpm
 │   ├── liberation-fonts-2.1.5-1.azl3.x86_64.rpm
 │   ├── libgepub-0.7.3-1.azl3.x86_64.rpm
 │   ├── libgs-10.03.1-1.azl3.x86_64.rpm
@@ -140,8 +137,7 @@
 │   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
-│   ├── onboard-1.4.1-1.azl3.x86_64.rpm
-│   └── onboard-data-1.4.1-1.azl3.x86_64.rpm
+│   └── onboard-1.4.1-1.azl3.x86_64.rpm
 ├── p
 │   ├── PlusJakartaSans-fonts-2.7.1-1.azl3.x86_64.rpm
 │   ├── pangomm-2.50.2-1.azl3.x86_64.rpm
@@ -161,8 +157,7 @@
 │   ├── ristretto-0.13.2-1.azl3.x86_64.rpm
 │   └── rtl-firmware-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
 ├── s
-│   ├── sdbus-cpp-1.3.0-3STANDALONE.azl3.x86_64.rpm
-│   └── seatd-0.9.1-1.azl3.x86_64.rpm
+│   └── sdbus-cpp-1.3.0-3STANDALONE.azl3.x86_64.rpm
 ├── t
 │   ├── Thunar-4.18.11-3.azl3.x86_64.rpm
 │   ├── Thunar-panel-plugin-4.18.11-3.azl3.x86_64.rpm
@@ -175,9 +170,7 @@
 │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
 │   └── usbutils-017-2STANDALONE.azl3.x86_64.rpm
 ├── v
-│   ├── virt-install-5.0.0-1.azl3.x86_64.rpm
-│   ├── virt-manager-5.0.0-1.azl3.x86_64.rpm
-│   └── virt-manager-common-5.0.0-1.azl3.x86_64.rpm
+│   └── virt-manager-5.0.0-1.azl3.x86_64.rpm
 ├── w
 ├── x
 │   ├── xarchiver-0.5.4.25-1.azl3.x86_64.rpm
@@ -188,7 +181,6 @@
 │   ├── xfce4-appfinder-4.18.1-1.azl3.x86_64.rpm
 │   ├── xfce4-clipman-plugin-1.6.6-1.azl3.x86_64.rpm
 │   ├── xfce4-cpugraph-plugin-1.2.10-1.azl3.x86_64.rpm
-│   ├── xfce4-dev-tools-4.18.1-1.azl3.x86_64.rpm
 │   ├── xfce4-docklike-plugin-0.5.0-1.azl3.x86_64.rpm
 │   ├── xfce4-genmon-plugin-4.2.0-1.azl3.x86_64.rpm
 │   ├── xfce4-icon-theme-4.18.0-1.azl3.x86_64.rpm
@@ -221,4 +213,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 192 files
+26 directories, 184 files
