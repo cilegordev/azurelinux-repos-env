@@ -1,7 +1,7 @@
 |=======================================================================|
 |				Repo Maped				|
 |=======================================================================|
-.
+packages
 ├── a
 │   ├── aquamarine-0.4.4-1.azl3.x86_64.rpm
 │   ├── azurelinux-baremetal-amdgpu-legacy-packages-3.0-1.azl3.noarch.rpm
@@ -15,8 +15,8 @@
 │   └── brightnessctl-0.5.1-1.azl3.x86_64.rpm
 ├── c
 │   ├── cairomm-1.16.0-1STANDALONE.azl3.x86_64.rpm
-│   ├── calamares-3.3.1-5STANDALONE.azl3.x86_64.rpm
-│   ├── calamares-libs-3.3.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── calamares-3.3.1-6STANDALONE.azl3.x86_64.rpm
+│   ├── calamares-libs-3.3.1-6STANDALONE.azl3.x86_64.rpm
 │   ├── catfish-4.18.0-1.azl3.x86_64.rpm
 │   └── cups-filters-2.0.1-1.azl3.x86_64.rpm
 ├── d
