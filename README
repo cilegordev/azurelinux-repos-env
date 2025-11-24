@@ -7,7 +7,9 @@
 │   ├── azurelinux-baremetal-amdgpu-legacy-packages-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-baremetal-amdgpu-packages-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-desktop-xfce-packages-3.0-1.azl3.noarch.rpm
+│   ├── azurelinux-discovery-tools-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-gui-vm-packages-3.0-1.azl3.noarch.rpm
+│   ├── azurelinux-network-tools-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-repos-microsoft-edge-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-repos-microsoft-visual-studio-code-3.0-1.azl3.noarch.rpm
 │   └── azurelinux-window-hyprland-packages-3.0-1.azl3.noarch.rpm
@@ -23,7 +25,7 @@
 ├── e
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
 ├── f
-│   ├── Flat-Adwaita-0-3.azl3.x86_64.rpm
+│   ├── Flat-Adwaita-0-4.azl3.x86_64.rpm
 │   ├── ffmpeg-5.1.7-1.azl3.x86_64.rpm
 │   ├── ffmpegthumbnailer-2.2.3-1.azl3.x86_64.rpm
 │   ├── firefox-128.14.0esr-1.azl3.x86_64.rpm
@@ -128,7 +130,9 @@
 ├── n
 │   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm
 │   ├── NetworkManager-applet-1.36.0-2.azl3.x86_64.rpm
+│   ├── ncat-7.95-3STANDALONE.azl3.x86_64.rpm
 │   ├── neofetch-7.1.1-1.azl3.x86_64.rpm
+│   ├── nmap-7.95-3STANDALONE.azl3.x86_64.rpm
 │   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
@@ -140,6 +144,7 @@
 │   ├── pavucontrol-6.1-1.azl3.x86_64.rpm
 │   ├── pinentry-1.2.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── plymouth-24.004.60-1.azl3.x86_64.rpm
+│   ├── polkit-123-4STANDALONE.azl3.x86_64.rpm
 │   ├── poppler-24.08.0-1.azl3.x86_64.rpm
 │   ├── poppler-cpp-24.08.0-1.azl3.x86_64.rpm
 │   ├── poppler-glib-24.08.0-1.azl3.x86_64.rpm
@@ -152,6 +157,8 @@
 │   ├── qtbase-examples-6.6.3-4STANDALONE.azl3.x86_64.rpm
 │   ├── qtbase-gui-6.6.3-4STANDALONE.azl3.x86_64.rpm
 │   ├── qtbase-private-devel-6.6.3-4STANDALONE.azl3.x86_64.rpm
+│   ├── qtbase-qt5compat-6.6.3-1.azl3.x86_64.rpm
+│   ├── qtbase-qt5compat-examples-6.6.3-1.azl3.x86_64.rpm
 │   ├── qtbase-static-6.6.3-4STANDALONE.azl3.x86_64.rpm
 │   ├── qtbase-xcb-6.6.3-4STANDALONE.azl3.x86_64.rpm
 │   └── qtct-0.9-1.azl3.x86_64.rpm
@@ -176,6 +183,9 @@
 ├── v
 │   └── virt-manager-5.0.0-1.azl3.x86_64.rpm
 ├── w
+│   ├── wireshark-4.4.7-2STANDALONE.azl3.x86_64.rpm
+│   ├── wireshark-cli-4.4.7-2STANDALONE.azl3.x86_64.rpm
+│   └── wireshark-gui-4.4.7-2STANDALONE.azl3.x86_64.rpm
 ├── x
 │   ├── xarchiver-0.5.4.25-1.azl3.x86_64.rpm
 │   ├── xcalc-1.1.2-1.azl3.x86_64.rpm
@@ -215,7 +225,8 @@
 │   └── xorg-x11-drv-vesa-2.6.0-2.azl3.x86_64.rpm
 ├── y
 └── z
+    ├── zenmap-7.95-3STANDALONE.azl3.x86_64.rpm
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 189 files
+26 directories, 200 files
