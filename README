@@ -4,8 +4,8 @@
 .
 ├── a
 │   ├── aquamarine-0.4.4-1.azl3.x86_64.rpm
-│   ├── azurelinux-baremetal-amdgpu-legacy-packages-3.0-1.azl3.noarch.rpm
-│   ├── azurelinux-baremetal-amdgpu-packages-3.0-1.azl3.noarch.rpm
+│   ├── azurelinux-baremetal-amdgpu-legacy-packages-3.0-2.azl3.noarch.rpm
+│   ├── azurelinux-baremetal-amdgpu-packages-3.0-2.azl3.noarch.rpm
 │   ├── azurelinux-desktop-xfce-packages-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-discovery-tools-3.0-1.azl3.noarch.rpm
 │   ├── azurelinux-gui-vm-packages-3.0-1.azl3.noarch.rpm
@@ -70,14 +70,13 @@
 │   └── jbig2dec-0.20-1.azl3.x86_64.rpm
 ├── k
 │   ├── kazam-2.0.0-1.azl3.x86_64.rpm
-│   ├── kernel-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-devel-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-headers-6.6.85.1-4STANDALONE.azl3.noarch.rpm
-│   ├── kernel-non-free-6.6.85.1-4STANDALONE.azl3.x86_64.rpm
-│   └── kmod-30-1STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-extras-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-headers-6.6.117.1-2STANDALONE.azl3.noarch.rpm
+│   └── kmod-30-2STANDALONE.azl3.x86_64.rpm
 ├── l
 │   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
@@ -101,6 +100,7 @@
 │   ├── libuuid-1.6.2-52STANDALONE.azl3.x86_64.rpm
 │   ├── libx264-0.164.3103-1.azl3.x86_64.rpm
 │   ├── libx265-3.5-1.azl3.x86_64.rpm
+│   ├── libxdo-3.20211022.1-1.azl3.x86_64.rpm
 │   ├── libxfce4ui-4.18.6-3.azl3.x86_64.rpm
 │   ├── libxfce4windowing-4.19.4-1.azl3.x86_64.rpm
 │   ├── linux-firmware-mediatek-20230804-3STANDALONE.azl3.noarch.rpm
@@ -110,22 +110,17 @@
 ├── m
 │   ├── menulibre-2.3.2-1.azl3.x86_64.rpm
 │   ├── mesa-demos-9.0.0-1.azl3.x86_64.rpm
-│   ├── mesa-dri-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-dri-drivers-extras-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-filesystem-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libEGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libEGL-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libGL-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libGLU-9.0.3-1STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libGLU-devel-9.0.3-1STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libOSMesa-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libOSMesa-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libgbm-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libgbm-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libglapi-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-va-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-vulkan-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-dri-drivers-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-dri-drivers-extras-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-filesystem-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libEGL-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libGL-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libOSMesa-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libgbm-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libgbm-devel-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libglapi-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-va-drivers-24.0.1-5STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-vulkan-drivers-24.0.1-5STANDALONE.azl3.x86_64.rpm
 │   ├── mousepad-0.6.3-4.azl3.x86_64.rpm
 │   └── mugshot-0.4.3-1.azl3.x86_64.rpm
 ├── n
@@ -152,16 +147,10 @@
 │   ├── poppler-utils-24.08.0-1.azl3.x86_64.rpm
 │   └── python3-distutils-extra-2.39-1.azl3.x86_64.rpm
 ├── q
-│   ├── qtbase-6.6.3-4STANDALONE.azl3.x86_64.rpm
-│   ├── qtbase-common-6.6.3-4STANDALONE.azl3.x86_64.rpm
-│   ├── qtbase-devel-6.6.3-4STANDALONE.azl3.x86_64.rpm
-│   ├── qtbase-examples-6.6.3-4STANDALONE.azl3.x86_64.rpm
-│   ├── qtbase-gui-6.6.3-4STANDALONE.azl3.x86_64.rpm
-│   ├── qtbase-private-devel-6.6.3-4STANDALONE.azl3.x86_64.rpm
+│   ├── qtbase-6.6.3-5STANDALONE.azl3.x86_64.rpm
+│   ├── qtbase-gui-6.6.3-5STANDALONE.azl3.x86_64.rpm
 │   ├── qtbase-qt5compat-6.6.3-1.azl3.x86_64.rpm
-│   ├── qtbase-qt5compat-examples-6.6.3-1.azl3.x86_64.rpm
-│   ├── qtbase-static-6.6.3-4STANDALONE.azl3.x86_64.rpm
-│   └── qtbase-xcb-6.6.3-4STANDALONE.azl3.x86_64.rpm
+│   └── qtbase-xcb-6.6.3-5STANDALONE.azl3.x86_64.rpm
 ├── r
 │   ├── radeontop-1.4-1.azl3.x86_64.rpm
 │   └── ristretto-0.13.2-1.azl3.x86_64.rpm
@@ -227,4 +216,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 198 files
+26 directories, 187 files
