@@ -1,4 +1,4 @@
-    About 200++ packages
+    About 100++ packages
 
     A. In this repo you can see, my commits are usually just simple descriptions 
     like rebuild, update, new package addition, optimization, or hotfix. Why?
@@ -12,34 +12,35 @@
     patched to be compatible with the DE/WM being used — especially for crucial
     parts like drivers.
 
-    C. About kernel-6.12-rc1.EOL, there’s actually nothing special about it. 
-    "Short story" before I got to this many packages, I was confused why so many
-    things didn’t work properly compared to popular Linux distros. It turned out
-    that a lot of features simply weren’t enabled in kernel-6.6.x. So
-    kernel-6.12-rc1.EOL was the first kernel I studied and added to the 
-    repository. Note that kernel-6.12-rc1.EOL is a custom kernel I built to test 
-    the "zstd" feature. That’s why if you want to install it, you’ll need
-    "kmod-30-1STANDALONE" for it to run.
-
-    D. There are a few custom packages that I made myself, including indoterm,
-    hyprbar, xfce4-polkit-plugins, and zram.
-
-    E. The packages I provide are quite limited because I tend to repeat or refine
+    C. The packages I provide are quite limited because I tend to repeat or refine
     what already exists instead of wrapping too many packages with weak
     improvements. If the latest commit status says rebuild, just know that I’m 
     perfecting it so that it works flawlessly on a fresh install — but not
     necessarily with upgrades, huffft.
 
-    F. If you need a fast way to get Xfce or Hyprland preconfigured, you can 
+    D. If you need a fast way to get Xfce or Hyprland preconfigured, you can 
     install azurelinux-desktop-xfce-packages or 
     azurelinux-window-hyprland-packages. These are meta-packages that can turn it
     into a ready-to-use Linux system.
     
-    G. Back to F if you install on vbox, vmware or kvm install 
+    E. Back to D if you install on vbox, vmware or kvm install 
     azurelinux-gui-vm-packages. this package is core of xfce and use xinit,
     fbdev and vesa. so no need gpu driver.
     
-    H. News maintenance not bug just reminder for me
+    F. News maintenance not bug just reminder for me
     1. can't change auto bash to zsh 
     2. imposible to auto icons.screen0-<res>.rc 
     3. i don't know to fix lid close blinking on xfce4-power-manager
+    
+    G. Library tools
+    │   ├── cups-filters-2.0.1-1.azl3.x86_64.rpm (wpsoffice)
+    │   ├── freerdp3-3.16.0-1.azl3.x86_64.rpm (winboat)
+    │   ├── kazam-2.0.0-1.azl3.x86_64.rpm (screenrecorder)
+    │   ├── kernel-drivers-extras-6.6.117.1-2STANDALONE.azl3.x86_64.rpm (driver)
+    │   ├── libxdo-3.20211022.1-1.azl3.x86_64.rpm (rustdesk)
+    │   ├── mesa-dri-drivers-extras-24.0.1-5STANDALONE.azl3.x86_64.rpm (driver)
+    │   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm (favorite)
+    │   ├── neofetch-7.1.1-1.azl3.x86_64.rpm (exclsv)
+    │   ├── parole-4.18.1-1.azl3.x86_64.rpm (effort)
+    │   ├── polkit-123-4STANDALONE.azl3.x86_64.rpm (danger)
+    │   ├── qtbase-xcb-6.6.3-5STANDALONE.azl3.x86_64.rpm (calamares)
