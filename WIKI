@@ -44,3 +44,4 @@
     │   ├── parole-4.18.1-1.azl3.x86_64.rpm (effort)
     │   ├── polkit-123-4STANDALONE.azl3.x86_64.rpm (danger)
     │   ├── qtbase-xcb-6.6.3-5STANDALONE.azl3.x86_64.rpm (calamares)
+    │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm (first standalone package)
