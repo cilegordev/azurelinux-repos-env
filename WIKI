@@ -1,4 +1,4 @@
-    About 100++ packages
+    About 200++ packages
 
     A. In this repo you can see, my commits are usually just simple descriptions 
     like rebuild, update, new package addition, optimization, or hotfix. Why?
@@ -32,7 +32,10 @@
     2. imposible to auto icons.screen0-<res>.rc 
     3. i don't know to fix lid close blinking on xfce4-power-manager
     
-    G. Library tools
+    G. News kernel 6.6.12.1 prepatch linux-surface for surface devices base on 
+    azurelinux kernel
+    
+    H. Library tools
     │   ├── cups-filters-2.0.1-1.azl3.x86_64.rpm (wpsoffice)
     │   ├── freerdp3-3.16.0-1.azl3.x86_64.rpm (winboat)
     │   ├── kazam-2.0.0-1.azl3.x86_64.rpm (screenrecorder)
