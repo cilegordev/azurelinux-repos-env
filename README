@@ -27,6 +27,7 @@
 │   ├── Flat-Adwaita-0-4.azl3.x86_64.rpm
 │   ├── ffmpeg-5.1.7-1.azl3.x86_64.rpm
 │   ├── ffmpegthumbnailer-2.2.3-1.azl3.x86_64.rpm
+│   ├── firacode-fonts-6.2-1.azl3.x86_64.rpm
 │   ├── firefox-128.14.0esr-1.azl3.x86_64.rpm
 │   ├── fmt-11.2.0-1STANDALONE.azl3.x86_64.rpm
 │   └── freerdp3-3.16.0-1.azl3.x86_64.rpm
@@ -73,17 +74,17 @@
 ├── k
 │   ├── kazam-2.0.0-1.azl3.x86_64.rpm
 │   ├── kernel-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-6.6.12.1-1.azl3.x86_64.rpm
+│   ├── kernel-6.6.12.2-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-extras-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-extras-6.6.12.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-extras-6.6.12.2-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-gpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.12.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.12.2-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-intree-amdgpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.12.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.12.2-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-sound-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.12.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.12.2-1.azl3.x86_64.rpm
 │   ├── kernel-headers-6.6.117.1-2STANDALONE.azl3.noarch.rpm
-│   ├── kernel-headers-6.6.12.1-1.azl3.noarch.rpm
+│   ├── kernel-headers-6.6.12.2-1.azl3.noarch.rpm
 │   ├── kmod-30-2STANDALONE.azl3.x86_64.rpm
 │   └── kmod-devel-30-2STANDALONE.azl3.x86_64.rpm
 ├── l
@@ -234,4 +235,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 205 files
+26 directories, 206 files
