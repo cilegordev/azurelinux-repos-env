@@ -60,6 +60,7 @@
 ├── h
 │   ├── hddtemp-0.3.beta15-1.azl3.x86_64.rpm
 │   ├── hyprbar-1.0.2-1.azl3.x86_64.rpm
+│   ├── hyprbar-1.0.3-1.azl3.x86_64.rpm
 │   ├── hyprcursor-0.1.10-1.azl3.x86_64.rpm
 │   ├── hypridle-0.1.2-1.azl3.x86_64.rpm
 │   ├── hyprland-0.42.0-1.azl3.x86_64.rpm
@@ -74,17 +75,18 @@
 ├── k
 │   ├── kazam-2.0.0-1.azl3.x86_64.rpm
 │   ├── kernel-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-6.6.12.2-1.azl3.x86_64.rpm
+│   ├── kernel-6.6.21.1-1.azl3.x86_64.rpm
+│   ├── kernel-devel-6.6.21.1-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-extras-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-extras-6.6.12.2-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-extras-6.6.21.1-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-gpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.12.2-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.21.1-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-intree-amdgpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.12.2-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.21.1-1.azl3.x86_64.rpm
 │   ├── kernel-drivers-sound-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.12.2-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.21.1-1.azl3.x86_64.rpm
 │   ├── kernel-headers-6.6.117.1-2STANDALONE.azl3.noarch.rpm
-│   ├── kernel-headers-6.6.12.2-1.azl3.noarch.rpm
+│   ├── kernel-headers-6.6.21.1-1.azl3.noarch.rpm
 │   ├── kmod-30-2STANDALONE.azl3.x86_64.rpm
 │   └── kmod-devel-30-2STANDALONE.azl3.x86_64.rpm
 ├── l
@@ -93,9 +95,11 @@
 │   ├── libcupsfilters-2.1.1-1.azl3.x86_64.rpm
 │   ├── libdisplay-info-0.2.0-1.azl3.x86_64.rpm
 │   ├── liberation-fonts-2.1.5-1.azl3.x86_64.rpm
+│   ├── libgbinder-1.1.43-1.azl3.x86_64.rpm
 │   ├── libgepub-0.7.3-1.azl3.x86_64.rpm
 │   ├── libglade3-3.40.0-1.azl3.x86_64.rpm
 │   ├── libglade3-demos-3.40.0-1.azl3.x86_64.rpm
+│   ├── libglibutil-1.0.80-1.azl3.x86_64.rpm
 │   ├── libgtop2-2.41.3-1.azl3.x86_64.rpm
 │   ├── libhandy1-1.8.3-1.azl3.x86_64.rpm
 │   ├── libinput-1.27.1-1STANDALONE.azl3.x86_64.rpm
@@ -121,6 +125,8 @@
 │   ├── linux-firmware-qlogic-20230804-5STANDALONE.azl3.noarch.rpm
 │   ├── linux-firmware-qualcomm-20230804-5STANDALONE.azl3.noarch.rpm
 │   ├── linux-firmware-realtek-20230804-5STANDALONE.azl3.noarch.rpm
+│   ├── lxc-6.0.5-1.azl3.x86_64.rpm
+│   ├── lxcfs-6.0.5-1.azl3.x86_64.rpm
 │   └── ly-0.6.0-1.azl3.x86_64.rpm
 ├── m
 │   ├── menulibre-2.3.2-1.azl3.x86_64.rpm
@@ -142,8 +148,10 @@
 │   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm
 │   ├── NetworkManager-applet-1.36.0-2.azl3.x86_64.rpm
 │   ├── ncat-7.95-3STANDALONE.azl3.x86_64.rpm
+│   ├── ncat-7.95-4STANDALONE.azl3.x86_64.rpm
 │   ├── neofetch-7.1.1-1.azl3.x86_64.rpm
 │   ├── nmap-7.95-3STANDALONE.azl3.x86_64.rpm
+│   ├── nmap-7.95-4STANDALONE.azl3.x86_64.rpm
 │   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
@@ -160,7 +168,8 @@
 │   ├── poppler-cpp-24.08.0-1.azl3.x86_64.rpm
 │   ├── poppler-glib-24.08.0-1.azl3.x86_64.rpm
 │   ├── poppler-utils-24.08.0-1.azl3.x86_64.rpm
-│   └── python3-distutils-extra-2.39-1.azl3.x86_64.rpm
+│   ├── python3-distutils-extra-2.39-1.azl3.x86_64.rpm
+│   └── python3-gbinder-1.3.0-1.azl3.x86_64.rpm
 ├── q
 │   ├── qtbase-6.6.3-5STANDALONE.azl3.x86_64.rpm
 │   ├── qtbase-gui-6.6.3-5STANDALONE.azl3.x86_64.rpm
@@ -184,11 +193,14 @@
 │   └── tumbler-extras-4.18.2-3.azl3.x86_64.rpm
 ├── u
 │   ├── udisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
+│   ├── ufw-0.35-1.azl3.x86_64.rpm
 │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
 │   └── usbutils-017-2STANDALONE.azl3.x86_64.rpm
 ├── v
 │   └── virt-manager-5.0.0-1.azl3.x86_64.rpm
 ├── w
+│   ├── waydroid-1.6.1-1.azl3.x86_64.rpm
+│   ├── waydroid-selinux-1.6.1-1.azl3.x86_64.rpm
 │   ├── wireshark-4.4.7-2STANDALONE.azl3.x86_64.rpm
 │   ├── wireshark-cli-4.4.7-2STANDALONE.azl3.x86_64.rpm
 │   └── wireshark-gui-4.4.7-2STANDALONE.azl3.x86_64.rpm
@@ -232,7 +244,8 @@
 ├── y
 └── z
     ├── zenmap-7.95-3STANDALONE.azl3.x86_64.rpm
+    ├── zenmap-7.95-4STANDALONE.azl3.x86_64.rpm
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 206 files
+26 directories, 219 files
