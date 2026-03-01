@@ -21,6 +21,7 @@
 │   ├── catfish-4.18.0-1.azl3.x86_64.rpm
 │   └── cups-filters-2.0.1-1.azl3.x86_64.rpm
 ├── d
+│   └── dos2unix-7.5.2-1.azl3.x86_64.rpm
 ├── e
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
 ├── f
@@ -43,7 +44,6 @@
 │   ├── gstreamer1-plugins-good-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-libav-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-ugly-1.20.0-1.azl3.x86_64.rpm
-│   ├── gthumb-3.12.7-1.azl3.x86_64.rpm
 │   ├── gtk-layer-shell-0.9.0-1.azl3.x86_64.rpm
 │   ├── gtk4-4.14.5-3.azl3.x86_64.rpm
 │   ├── gtk4-demos-4.14.5-3.azl3.x86_64.rpm
@@ -143,6 +143,7 @@
 │   ├── mesa-va-drivers-24.0.1-5STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-vulkan-drivers-24.0.1-5STANDALONE.azl3.x86_64.rpm
 │   ├── mousepad-0.6.3-4.azl3.x86_64.rpm
+│   ├── mtpaint-3.50-1.azl3.x86_64.rpm
 │   └── mugshot-0.4.3-1.azl3.x86_64.rpm
 ├── n
 │   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm
@@ -248,4 +249,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 219 files
+26 directories, 220 files
