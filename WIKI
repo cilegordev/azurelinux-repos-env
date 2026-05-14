@@ -35,7 +35,10 @@
     G. News kernel 6.6.21.1 prepatch linux-surface for surface devices base on 
     azurelinux kernel & waydroid only work in this kernel
     
-    H. Library tools
+    H. Rebuild qt5 and qt6 for support printer and calamares
+    ffmpeg for support gpu-screen-record, kazam, parole and vlc
+    
+    I. Library tools
     │   ├── cups-filters-2.0.1-1.azl3.x86_64.rpm (wpsoffice)
     │   ├── freerdp3-3.16.0-1.azl3.x86_64.rpm (winboat)
     │   ├── kazam-2.0.0-1.azl3.x86_64.rpm (screenrecorder)
@@ -46,5 +49,6 @@
     │   ├── neofetch-7.1.1-1.azl3.x86_64.rpm (exclsv)
     │   ├── parole-4.18.1-1.azl3.x86_64.rpm (effort)
     │   ├── polkit-123-4STANDALONE.azl3.x86_64.rpm (danger)
-    │   ├── qtbase-xcb-6.6.3-5STANDALONE.azl3.x86_64.rpm (calamares)
     │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm (first standalone package)
+    │   ├── waydroid-1.6.1-1.azl3.x86_64.rpm (android emulator)
+    │   ├── zsh-plugins-0.8.1-1.azl3.x86_64.rpm (helper)
