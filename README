@@ -58,7 +58,6 @@
 │   └── gvfs-mtp-1.56.1-2.azl3.x86_64.rpm
 ├── h
 │   ├── hddtemp-0.3.beta15-1.azl3.x86_64.rpm
-│   ├── hyprbar-1.0.2-1.azl3.x86_64.rpm
 │   ├── hyprbar-1.0.3-1.azl3.x86_64.rpm
 │   ├── hyprcursor-0.1.10-1.azl3.x86_64.rpm
 │   ├── hypridle-0.1.2-1.azl3.x86_64.rpm
@@ -73,19 +72,12 @@
 │   └── jbig2dec-0.20-1.azl3.x86_64.rpm
 ├── k
 │   ├── kazam-2.0.0-1.azl3.x86_64.rpm
-│   ├── kernel-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-6.6.21.1-1.azl3.x86_64.rpm
-│   ├── kernel-devel-6.6.21.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-extras-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-extras-6.6.21.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.21.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.21.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.117.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.21.1-1.azl3.x86_64.rpm
-│   ├── kernel-headers-6.6.117.1-2STANDALONE.azl3.noarch.rpm
-│   ├── kernel-headers-6.6.21.1-1.azl3.noarch.rpm
+│   ├── kernel-6.18.29.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-extras-6.18.29.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.18.29.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.18.29.1-1.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.18.29.1-1.azl3.x86_64.rpm
+│   ├── kernel-headers-6.18.29.1-1.azl3.noarch.rpm
 │   ├── kmod-30-2STANDALONE.azl3.x86_64.rpm
 │   └── kmod-devel-30-2STANDALONE.azl3.x86_64.rpm
 ├── l
@@ -150,10 +142,8 @@
 ├── n
 │   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm
 │   ├── NetworkManager-applet-1.36.0-2.azl3.x86_64.rpm
-│   ├── ncat-7.95-3STANDALONE.azl3.x86_64.rpm
 │   ├── ncat-7.95-4STANDALONE.azl3.x86_64.rpm
 │   ├── neofetch-7.1.1-1.azl3.x86_64.rpm
-│   ├── nmap-7.95-3STANDALONE.azl3.x86_64.rpm
 │   ├── nmap-7.95-4STANDALONE.azl3.x86_64.rpm
 │   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
@@ -164,7 +154,7 @@
 │   ├── pangomm-2.50.2-1.azl3.x86_64.rpm
 │   ├── parole-4.18.1-1.azl3.x86_64.rpm
 │   ├── pavucontrol-6.1-1.azl3.x86_64.rpm
-│   ├── pinentry-1.2.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── pinentry-1.2.1-3STANDALONE.azl3.x86_64.rpm
 │   ├── plymouth-24.004.60-1.azl3.x86_64.rpm
 │   ├── polkit-123-5STANDALONE.azl3.x86_64.rpm
 │   ├── poppler-24.08.0-1.azl3.x86_64.rpm
@@ -249,9 +239,8 @@
 │   └── xorg-x11-drv-vesa-2.6.0-2.azl3.x86_64.rpm
 ├── y
 └── z
-    ├── zenmap-7.95-3STANDALONE.azl3.x86_64.rpm
     ├── zenmap-7.95-4STANDALONE.azl3.x86_64.rpm
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 225 files
+26 directories, 214 files
