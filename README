@@ -38,6 +38,8 @@
 │   ├── ghostscript-printing-10.03.1-1.azl3.x86_64.rpm
 │   ├── gigolo-0.5.3-1.azl3.x86_64.rpm
 │   ├── gnome-disk-utility-46.1-1.azl3.x86_64.rpm
+│   ├── gnome-keyring-3.36.0-3STANDALONE.azl3.x86_64.rpm
+│   ├── gnome-keyring-pam-3.36.0-3STANDALONE.azl3.x86_64.rpm
 │   ├── gnome-menus-3.36.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-bad-1.20.0-1.azl3.x86_64.rpm
 │   ├── gstreamer1-plugins-good-1.20.0-1.azl3.x86_64.rpm
@@ -141,7 +143,7 @@
 │   └── mugshot-0.4.3-1.azl3.x86_64.rpm
 ├── n
 │   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm
-│   ├── NetworkManager-applet-1.36.0-2.azl3.x86_64.rpm
+│   ├── NetworkManager-applet-1.36.0-2.1.azl3.x86_64.rpm
 │   ├── ncat-7.95-4STANDALONE.azl3.x86_64.rpm
 │   ├── neofetch-7.1.1-1.azl3.x86_64.rpm
 │   ├── nmap-7.95-4STANDALONE.azl3.x86_64.rpm
@@ -243,4 +245,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 214 files
+26 directories, 216 files
