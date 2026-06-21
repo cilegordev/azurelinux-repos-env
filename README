@@ -74,12 +74,13 @@
 │   └── jbig2dec-0.20-1.azl3.x86_64.rpm
 ├── k
 │   ├── kazam-2.0.0-1.azl3.x86_64.rpm
-│   ├── kernel-6.18.29.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-extras-6.18.29.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.18.29.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.18.29.1-1.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.18.29.1-1.azl3.x86_64.rpm
-│   ├── kernel-headers-6.18.29.1-1.azl3.noarch.rpm
+│   ├── kernel-6.6.139.1-2.azl3.x86_64.rpm
+│   ├── kernel-devel-6.6.139.1-2.azl3.x86_64.rpm
+│   ├── kernel-drivers-extras-6.6.139.1-2.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.139.1-2.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.139.1-2.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.139.1-2.azl3.x86_64.rpm
+│   ├── kernel-headers-6.6.139.1-2.azl3.noarch.rpm
 │   ├── kmod-30-2STANDALONE.azl3.x86_64.rpm
 │   └── kmod-devel-30-2STANDALONE.azl3.x86_64.rpm
 ├── l
@@ -245,4 +246,4 @@
     ├── zram-999-2.azl3.x86_64.rpm
     └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
 
-26 directories, 216 files
+26 directories, 217 files
