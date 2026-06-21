@@ -146,7 +146,7 @@
 │   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm
 │   ├── NetworkManager-applet-1.36.0-2.1.azl3.x86_64.rpm
 │   ├── ncat-7.95-4STANDALONE.azl3.x86_64.rpm
-│   ├── neofetch-7.1.1-1.azl3.x86_64.rpm
+│   ├── neofetch-7.1.1-1.azl3.noarch.rpm
 │   ├── nmap-7.95-4STANDALONE.azl3.x86_64.rpm
 │   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
@@ -220,7 +220,7 @@
 │   ├── xfce4-panel-4.18.6-2.azl3.x86_64.rpm
 │   ├── xfce4-panel-profiles-1.0.14-1.azl3.x86_64.rpm
 │   ├── xfce4-polkit-0.3.1-6.azl3.x86_64.rpm
-│   ├── xfce4-polkit-plugin-1-1.azl3.x86_64.rpm
+│   ├── xfce4-polkit-plugin-1-1.azl3.noarch.rpm
 │   ├── xfce4-power-manager-4.18.4-2.azl3.x86_64.rpm
 │   ├── xfce4-preconfigure-1-3.azl3.noarch.rpm
 │   ├── xfce4-pulseaudio-plugin-0.4.9-1.azl3.x86_64.rpm
@@ -243,7 +243,7 @@
 ├── y
 └── z
     ├── zenmap-7.95-4STANDALONE.azl3.x86_64.rpm
-    ├── zram-999-2.azl3.x86_64.rpm
-    └── zsh-plugins-0.8.1-1.azl3.x86_64.rpm
+    ├── zram-999-2.azl3.noarch.rpm
+    └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
 26 directories, 217 files
