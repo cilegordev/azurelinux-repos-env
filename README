@@ -74,13 +74,13 @@
 │   └── jbig2dec-0.20-1.azl3.x86_64.rpm
 ├── k
 │   ├── kazam-2.0.0-1.azl3.x86_64.rpm
-│   ├── kernel-6.6.139.1-2.azl3.x86_64.rpm
-│   ├── kernel-devel-6.6.139.1-2.azl3.x86_64.rpm
-│   ├── kernel-drivers-extras-6.6.139.1-2.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.139.1-2.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.139.1-2.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.139.1-2.azl3.x86_64.rpm
-│   ├── kernel-headers-6.6.139.1-2.azl3.noarch.rpm
+│   ├── kernel-6.6.139.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-devel-6.6.139.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-extras-6.6.139.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.139.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.139.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.139.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-headers-6.6.139.1-2STANDALONE.azl3.noarch.rpm
 │   ├── kmod-30-2STANDALONE.azl3.x86_64.rpm
 │   └── kmod-devel-30-2STANDALONE.azl3.x86_64.rpm
 ├── l
@@ -127,17 +127,17 @@
 ├── m
 │   ├── menulibre-2.3.2-1.azl3.x86_64.rpm
 │   ├── mesa-demos-9.0.0-1.azl3.x86_64.rpm
-│   ├── mesa-dri-drivers-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-dri-drivers-extras-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-filesystem-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libEGL-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libGL-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libOSMesa-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libgbm-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libgbm-devel-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-libglapi-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-va-drivers-24.0.1-9STANDALONE.azl3.x86_64.rpm
-│   ├── mesa-vulkan-drivers-24.0.1-9STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-dri-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-dri-drivers-extras-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-filesystem-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libEGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libOSMesa-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libgbm-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libgbm-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libglapi-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-va-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-vulkan-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mousepad-0.6.3-4.azl3.x86_64.rpm
 │   ├── mpv-0.38.0-1.azl3.x86_64.rpm
 │   ├── mtpaint-3.50-1.azl3.x86_64.rpm
@@ -195,7 +195,6 @@
 │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
 │   └── usbutils-017-2STANDALONE.azl3.x86_64.rpm
 ├── v
-│   └── virt-manager-5.0.0-1.azl3.x86_64.rpm
 ├── w
 │   ├── waydroid-1.6.1-1.azl3.x86_64.rpm
 │   ├── waydroid-selinux-1.6.1-1.azl3.x86_64.rpm
@@ -246,4 +245,4 @@
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 217 files
+26 directories, 216 files
