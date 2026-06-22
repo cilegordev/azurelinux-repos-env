@@ -131,8 +131,11 @@
 │   ├── mesa-dri-drivers-extras-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-filesystem-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libEGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libEGL-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libGL-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libGL-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libOSMesa-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libOSMesa-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libgbm-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libgbm-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libglapi-24.0.1-2STANDALONE.azl3.x86_64.rpm
@@ -245,4 +248,4 @@
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 216 files
+26 directories, 219 files
