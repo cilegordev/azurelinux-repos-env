@@ -29,7 +29,7 @@
 │   ├── ffmpegthumbnailer-2.2.3-1.azl3.x86_64.rpm
 │   ├── firacode-fonts-6.2-1.azl3.x86_64.rpm
 │   ├── firefox-128.14.0esr-1.azl3.x86_64.rpm
-│   ├── fmt-11.2.0-1STANDALONE.azl3.x86_64.rpm
+│   ├── fmt-11.2.0-1.azl3.x86_64.rpm
 │   └── freerdp3-3.16.0-1.azl3.x86_64.rpm
 ├── g
 │   ├── garcon-4.18.2-1.azl3.x86_64.rpm
@@ -98,7 +98,7 @@
 │   ├── libglibutil-1.0.80-1.azl3.x86_64.rpm
 │   ├── libgtop2-2.41.3-1.azl3.x86_64.rpm
 │   ├── libhandy1-1.8.3-1.azl3.x86_64.rpm
-│   ├── libinput-1.27.1-1STANDALONE.azl3.x86_64.rpm
+│   ├── libinput-1.27.1-1.azl3.x86_64.rpm
 │   ├── libliftoff-0.5.0-1.azl3.x86_64.rpm
 │   ├── libnm-1.51.4-2.azl3.x86_64.rpm
 │   ├── libnma-1.10.6-2.azl3.x86_64.rpm
@@ -107,7 +107,7 @@
 │   ├── libppd-2.1.1-1.azl3.x86_64.rpm
 │   ├── libseat-0.9.1-1.azl3.x86_64.rpm
 │   ├── libudis86-1.7.2-1.azl3.x86_64.rpm
-│   ├── libudisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
+│   ├── libudisks2-2.10.0-2.azl3.x86_64.rpm
 │   ├── libuuid-1.6.2-52STANDALONE.azl3.x86_64.rpm
 │   ├── libwacom-surface-2.17.0-1.azl3.x86_64.rpm
 │   ├── libwacom-surface-data-2.17.0-1.azl3.noarch.rpm
@@ -198,7 +198,7 @@
 │   ├── tumbler-4.18.2-3.azl3.x86_64.rpm
 │   └── tumbler-extras-4.18.2-3.azl3.x86_64.rpm
 ├── u
-│   ├── udisks2-2.10.0-1STANDALONE.azl3.x86_64.rpm
+│   ├── udisks2-2.10.0-2.azl3.x86_64.rpm
 │   ├── ufw-0.35-1.azl3.x86_64.rpm
 │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
 │   └── usbutils-017-2STANDALONE.azl3.x86_64.rpm
