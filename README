@@ -15,11 +15,15 @@
 │   ├── azurelinux-repos-microsoft-visual-studio-code-3.0-1.azl3.noarch.rpm
 │   └── azurelinux-window-hyprland-packages-3.0-1.azl3.noarch.rpm
 ├── b
-│   └── brightnessctl-0.5.1-1.azl3.x86_64.rpm
+│   └── brightnessctl-0.5.1-2.azl3.x86_64.rpm
 ├── c
 │   ├── cairomm1.16-1.16.0-1.azl3.x86_64.rpm
 │   ├── catfish-4.18.0-1.azl3.x86_64.rpm
-│   └── cups-filters-2.0.1-1.azl3.x86_64.rpm
+│   ├── cups-2.4.19-2STANDALONE.azl3.x86_64.rpm
+│   ├── cups-client-2.4.19-2STANDALONE.azl3.x86_64.rpm
+│   ├── cups-filesystem-2.4.19-2STANDALONE.azl3.noarch.rpm
+│   ├── cups-filters-2.0.1-1.azl3.x86_64.rpm
+│   └── cups-libs-2.4.19-2STANDALONE.azl3.x86_64.rpm
 ├── d
 ├── e
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
@@ -60,7 +64,7 @@
 │   └── gvfs-mtp-1.56.1-2.azl3.x86_64.rpm
 ├── h
 │   ├── hddtemp-0.3.beta15-1.azl3.x86_64.rpm
-│   ├── hyprbar-1.0.3-1.azl3.x86_64.rpm
+│   ├── hyprbar-1.0.4-1.azl3.x86_64.rpm
 │   ├── hyprcursor-0.1.10-1.azl3.x86_64.rpm
 │   ├── hypridle-0.1.2-1.azl3.x86_64.rpm
 │   ├── hyprland-0.42.0-1.azl3.x86_64.rpm
@@ -70,6 +74,7 @@
 │   ├── hyprpaper-0.7.1-1.azl3.x86_64.rpm
 │   └── hyprutils-0.2.3-1.azl3.x86_64.rpm
 ├── i
+│   ├── indoterm-0.8.3-1.azl3.x86_64.rpm
 │   └── iptsd-3.1.0-1.azl3.x86_64.rpm
 ├── j
 │   └── jbig2dec-0.20-1.azl3.x86_64.rpm
@@ -128,7 +133,7 @@
 │   ├── linux-firmware-realtek-20230804-5STANDALONE.azl3.noarch.rpm
 │   ├── lxc-6.0.5-1.azl3.x86_64.rpm
 │   ├── lxcfs-6.0.5-1.azl3.x86_64.rpm
-│   └── ly-0.6.0-1.azl3.x86_64.rpm
+│   └── ly-0.6.0-2.azl3.x86_64.rpm
 ├── m
 │   ├── menulibre-2.3.2-1.azl3.x86_64.rpm
 │   ├── mesa-demos-9.0.0-1.azl3.x86_64.rpm
@@ -193,6 +198,7 @@
 │   ├── Thunar-panel-plugin-4.18.11-3.azl3.x86_64.rpm
 │   ├── thunar-archive-plugin-0.5.2-1.azl3.x86_64.rpm
 │   ├── thunar-volman-4.18.0-1.azl3.x86_64.rpm
+│   ├── tinywl-0.17.10-1.azl3.x86_64.rpm
 │   ├── tomlplusplus-3.4.0-1.azl3.x86_64.rpm
 │   ├── tracker3-3.2.1-1.azl3.x86_64.rpm
 │   ├── tumbler-4.18.2-3.azl3.x86_64.rpm
@@ -208,7 +214,8 @@
 │   ├── waydroid-selinux-1.6.1-1.azl3.x86_64.rpm
 │   ├── wireshark-4.4.7-2STANDALONE.azl3.x86_64.rpm
 │   ├── wireshark-cli-4.4.7-2STANDALONE.azl3.x86_64.rpm
-│   └── wireshark-gui-4.4.7-2STANDALONE.azl3.x86_64.rpm
+│   ├── wireshark-gui-4.4.7-2STANDALONE.azl3.x86_64.rpm
+│   └── wlroots-0.17.4-1.azl3.x86_64.rpm
 ├── x
 │   ├── xarchiver-0.5.4.25-1.azl3.x86_64.rpm
 │   ├── xcalc-1.1.2-1.azl3.x86_64.rpm
@@ -252,4 +259,4 @@
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 223 files
+26 directories, 230 files
