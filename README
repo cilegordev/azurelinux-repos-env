@@ -198,7 +198,8 @@
 │   ├── Thunar-panel-plugin-4.18.11-3.azl3.x86_64.rpm
 │   ├── thunar-archive-plugin-0.5.2-1.azl3.x86_64.rpm
 │   ├── thunar-volman-4.18.0-1.azl3.x86_64.rpm
-│   ├── tinywl-0.17.10-1.azl3.x86_64.rpm
+│   ├── tinywl-0.17.12-1.azl3.x86_64.rpm
+│   ├── tinywl-devel-0.17.12-1.azl3.x86_64.rpm
 │   ├── tomlplusplus-3.4.0-1.azl3.x86_64.rpm
 │   ├── tracker3-3.2.1-1.azl3.x86_64.rpm
 │   ├── tumbler-4.18.2-3.azl3.x86_64.rpm
@@ -215,7 +216,7 @@
 │   ├── wireshark-4.4.7-2STANDALONE.azl3.x86_64.rpm
 │   ├── wireshark-cli-4.4.7-2STANDALONE.azl3.x86_64.rpm
 │   ├── wireshark-gui-4.4.7-2STANDALONE.azl3.x86_64.rpm
-│   └── wlroots-0.17.4-1.azl3.x86_64.rpm
+│   └── wlroots-0.17.4-2.azl3.x86_64.rpm
 ├── x
 │   ├── xarchiver-0.5.4.25-1.azl3.x86_64.rpm
 │   ├── xcalc-1.1.2-1.azl3.x86_64.rpm
@@ -259,4 +260,4 @@
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 230 files
+26 directories, 231 files
