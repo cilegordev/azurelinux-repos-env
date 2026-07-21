@@ -198,8 +198,8 @@
 │   ├── Thunar-panel-plugin-4.18.11-3.azl3.x86_64.rpm
 │   ├── thunar-archive-plugin-0.5.2-1.azl3.x86_64.rpm
 │   ├── thunar-volman-4.18.0-1.azl3.x86_64.rpm
-│   ├── tinywl-0.17.12-1.azl3.x86_64.rpm
-│   ├── tinywl-devel-0.17.12-1.azl3.x86_64.rpm
+│   ├── tinywl-0.17.13-1.azl3.x86_64.rpm
+│   ├── tinywl-devel-0.17.13-1.azl3.x86_64.rpm
 │   ├── tomlplusplus-3.4.0-1.azl3.x86_64.rpm
 │   ├── tracker3-3.2.1-1.azl3.x86_64.rpm
 │   ├── tumbler-4.18.2-3.azl3.x86_64.rpm
@@ -218,7 +218,7 @@
 │   ├── wireshark-gui-4.4.7-2STANDALONE.azl3.x86_64.rpm
 │   └── wlroots-0.17.4-2.azl3.x86_64.rpm
 ├── x
-│   ├── xarchiver-0.5.4.25-1.azl3.x86_64.rpm
+│   ├── xarchiver-0.5.4.25-2.azl3.x86_64.rpm
 │   ├── xcalc-1.1.2-1.azl3.x86_64.rpm
 │   ├── xcb-util-cursor-0.1.5-1.azl3.x86_64.rpm
 │   ├── xcb-util-errors-1.0.1-1.azl3.x86_64.rpm
