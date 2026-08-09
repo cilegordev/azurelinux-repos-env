@@ -189,7 +189,8 @@
 │   ├── qt5-qtbase-gui-5.12.11-10STANDALONE.azl3.x86_64.rpm
 │   ├── qt6-qt5compat-6.6.3-1.azl3.x86_64.rpm
 │   ├── qt6-qtbase-6.6.3-5STANDALONE.azl3.x86_64.rpm
-│   └── qt6-qtbase-gui-6.6.3-5STANDALONE.azl3.x86_64.rpm
+│   ├── qt6-qtbase-gui-6.6.3-5STANDALONE.azl3.x86_64.rpm
+│   └── qt6-qtsvg-6.6.1-4STANDALONE.azl3.x86_64.rpm
 ├── r
 │   ├── radeontop-1.4-1.azl3.x86_64.rpm
 │   └── ristretto-0.13.2-1.azl3.x86_64.rpm
@@ -264,4 +265,4 @@
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 235 files
+26 directories, 236 files
