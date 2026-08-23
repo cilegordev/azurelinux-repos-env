@@ -19,9 +19,8 @@
     necessarily with upgrades, huffft.
 
     D. If you need a fast way to get Xfce or Hyprland preconfigured, you can 
-    install azurelinux-desktop-xfce-packages or 
-    azurelinux-window-hyprland-packages. These are meta-packages that can turn it
-    into a ready-to-use Linux system.
+    install azurelinux-desktop-xfce-packages or azurelinux-window-hyprland-packages.
+    These are meta-packages that can turn it into a ready-to-use Linux system.
     
     E. Back to D if you install on vbox, vmware or kvm install 
     azurelinux-gui-vm-packages. this package is core of xfce and use xinit,
@@ -32,14 +31,16 @@
     2. imposible to auto icons.screen0-<res>.rc 
     3. i don't know to fix lid close blinking on xfce4-power-manager
     
-    G. News kernel 6.6.21.1 prepatch linux-surface for surface devices base on 
-    azurelinux kernel & waydroid only work in this kernel
+    G. News kernel 1:6.6.139.2 prepatch include linux-surface for surface devices
+    base on azurelinux kernel & waydroid only work in this kernel, and maybe touchpad
+    work on most of the laptops.
     
     H. Rebuild qt5 and qt6 for support printer and calamares
-    ffmpeg for support gpu-screen-record, kazam, parole and vlc
+    ffmpeg for support gpu-screen-record, kazam, parole and mpv
     
     I. Library tools
     │   ├── cups-filters-2.0.1-1.azl3.x86_64.rpm (wpsoffice)
+    │   ├── flatpak-1.15.9-1.azl3.x86_64.rpm (library store on linux)
     │   ├── freerdp3-3.16.0-1.azl3.x86_64.rpm (winboat)
     │   ├── kazam-2.0.0-1.azl3.x86_64.rpm (screenrecorder)
     │   ├── kernel-drivers-extras-6.6.117.1-2STANDALONE.azl3.x86_64.rpm (driver)
