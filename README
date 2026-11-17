@@ -20,11 +20,11 @@
 ├── c
 │   ├── cairomm1.16-1.16.0-1.azl3.x86_64.rpm
 │   ├── catfish-4.18.0-1.azl3.x86_64.rpm
-│   ├── cups-2.4.19-2STANDALONE.azl3.x86_64.rpm
-│   ├── cups-client-2.4.19-2STANDALONE.azl3.x86_64.rpm
-│   ├── cups-filesystem-2.4.19-2STANDALONE.azl3.noarch.rpm
+│   ├── cups-2.4.19-3STANDALONE.azl3.x86_64.rpm
+│   ├── cups-client-2.4.19-3STANDALONE.azl3.x86_64.rpm
+│   ├── cups-filesystem-2.4.19-3STANDALONE.azl3.noarch.rpm
 │   ├── cups-filters-2.0.1-1.azl3.x86_64.rpm
-│   └── cups-libs-2.4.19-2STANDALONE.azl3.x86_64.rpm
+│   └── cups-libs-2.4.19-3STANDALONE.azl3.x86_64.rpm
 ├── d
 ├── e
 │   └── exo-4.18.0-1.azl3.x86_64.rpm
@@ -107,7 +107,7 @@
 │   ├── libhandy1-1.8.3-1.azl3.x86_64.rpm
 │   ├── libinput-1.27.1-1.azl3.x86_64.rpm
 │   ├── libliftoff-0.5.0-1.azl3.x86_64.rpm
-│   ├── libnm-1.51.4-2.azl3.x86_64.rpm
+│   ├── libnm-1.51.4-2.1.azl3.x86_64.rpm
 │   ├── libnma-1.10.6-2.azl3.x86_64.rpm
 │   ├── libopus-1.5.2-1.azl3.x86_64.rpm
 │   ├── libplacebo-6.338.2-1.azl3.x86_64.rpm
@@ -151,6 +151,8 @@
 │   ├── mesa-libgbm-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libgbm-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-libglapi-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libxatracker-24.0.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── mesa-libxatracker-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-va-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-vulkan-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mousepad-0.6.3-5.azl3.x86_64.rpm
@@ -158,11 +160,11 @@
 │   ├── mtpaint-3.50-1.azl3.x86_64.rpm
 │   └── mugshot-0.4.3-1.azl3.x86_64.rpm
 ├── n
-│   ├── NetworkManager-1.51.4-2.azl3.x86_64.rpm
+│   ├── NetworkManager-1.51.4-2.1.azl3.x86_64.rpm
 │   ├── NetworkManager-applet-1.36.0-2.1.azl3.x86_64.rpm
-│   ├── ncat-7.95-5STANDALONE.azl3.x86_64.rpm
+│   ├── ncat-7.95-7STANDALONE.azl3.x86_64.rpm
 │   ├── neofetch-7.1.1-1.azl3.noarch.rpm
-│   ├── nmap-7.95-5STANDALONE.azl3.x86_64.rpm
+│   ├── nmap-7.95-7STANDALONE.azl3.x86_64.rpm
 │   ├── noto-fonts-2.006-1.azl3.x86_64.rpm
 │   └── nwg-dock-hyprland-0.3.3-1.azl3.x86_64.rpm
 ├── o
@@ -171,9 +173,9 @@
 ├── p
 │   ├── PlusJakartaSans-fonts-2.7.1-1.azl3.x86_64.rpm
 │   ├── pangomm-2.50.2-1.azl3.x86_64.rpm
-│   ├── parole-4.18.1-1.azl3.x86_64.rpm
+│   ├── parole-4.18.1-2.azl3.x86_64.rpm
 │   ├── pavucontrol-6.1-1.azl3.x86_64.rpm
-│   ├── pinentry-1.2.1-3STANDALONE.azl3.x86_64.rpm
+│   ├── pinentry-1.2.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── plymouth-24.004.60-1.azl3.x86_64.rpm
 │   ├── polkit-123-5STANDALONE.azl3.x86_64.rpm
 │   ├── polkit-devel-123-5STANDALONE.azl3.x86_64.rpm
@@ -188,8 +190,8 @@
 │   ├── qt5-qtbase-5.12.11-10STANDALONE.azl3.x86_64.rpm
 │   ├── qt5-qtbase-gui-5.12.11-10STANDALONE.azl3.x86_64.rpm
 │   ├── qt6-qt5compat-6.6.3-1.azl3.x86_64.rpm
-│   ├── qt6-qtbase-6.6.3-6STANDALONE.azl3.x86_64.rpm
-│   ├── qt6-qtbase-gui-6.6.3-6STANDALONE.azl3.x86_64.rpm
+│   ├── qt6-qtbase-6.6.3-9STANDALONE.azl3.x86_64.rpm
+│   ├── qt6-qtbase-gui-6.6.3-9STANDALONE.azl3.x86_64.rpm
 │   └── qt6-qtsvg-6.6.1-4STANDALONE.azl3.x86_64.rpm
 ├── r
 │   ├── radeontop-1.4-1.azl3.x86_64.rpm
@@ -218,9 +220,8 @@
 ├── w
 │   ├── waydroid-1.6.1-1.azl3.x86_64.rpm
 │   ├── waydroid-selinux-1.6.1-1.azl3.x86_64.rpm
-│   ├── wireshark-4.4.7-2STANDALONE.azl3.x86_64.rpm
-│   ├── wireshark-cli-4.4.7-2STANDALONE.azl3.x86_64.rpm
-│   ├── wireshark-gui-4.4.7-2STANDALONE.azl3.x86_64.rpm
+│   ├── wireshark-4.4.7-3STANDALONE.azl3.x86_64.rpm
+│   ├── wireshark-cli-4.4.7-3STANDALONE.azl3.x86_64.rpm
 │   └── wlroots-0.17.4-2.azl3.x86_64.rpm
 ├── x
 │   ├── xarchiver-0.5.4.25-2.azl3.x86_64.rpm
@@ -258,11 +259,12 @@
 │   ├── xorg-x11-drv-ati-22.0.0-1.azl3.x86_64.rpm
 │   ├── xorg-x11-drv-fbdev-0.5.1-2.azl3.x86_64.rpm
 │   ├── xorg-x11-drv-intel-2.99.917-1.azl3.x86_64.rpm
-│   └── xorg-x11-drv-vesa-2.6.0-2.azl3.x86_64.rpm
+│   ├── xorg-x11-drv-vesa-2.6.0-2.azl3.x86_64.rpm
+│   └── xorg-x11-drv-vmware-13.4.0-1.azl3.x86_64.rpm
 ├── y
 └── z
-    ├── zenmap-7.95-5STANDALONE.azl3.x86_64.rpm
+    ├── zenmap-7.95-7STANDALONE.azl3.x86_64.rpm
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 236 files
+26 directories, 238 files
