@@ -77,22 +77,25 @@
 │   └── hyprutils-0.2.3-1.azl3.x86_64.rpm
 ├── i
 │   ├── indoterm-0.8.3-1.azl3.x86_64.rpm
-│   └── iptsd-3.1.0-1.azl3.x86_64.rpm
+│   ├── iptsd-3.1.0-1.azl3.x86_64.rpm
+│   └── iwd-applet-0.2.1-1.azl3.x86_64.rpm
 ├── j
 │   └── jbig2dec-0.20-1.azl3.x86_64.rpm
 ├── k
-│   ├── kazam-2.0.0-1.azl3.x86_64.rpm
-│   ├── kernel-6.6.150.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-devel-6.6.150.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-extras-6.6.150.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-gpu-6.6.150.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-intree-amdgpu-6.6.150.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-sound-6.6.150.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-headers-6.6.150.1-2STANDALONE.azl3.noarch.rpm
+│   ├── kazam-2.0.0-2.azl3.x86_64.rpm
+│   ├── kernel-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-devel-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-accessibility-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-extras-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-gpu-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-intree-amdgpu-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-drivers-sound-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
+│   ├── kernel-headers-6.6.161.1-2STANDALONE.azl3.noarch.rpm
 │   ├── kmod-30-2STANDALONE.azl3.x86_64.rpm
 │   └── kmod-devel-30-2STANDALONE.azl3.x86_64.rpm
 ├── l
 │   ├── libXpresent-1.0.1-1.azl3.x86_64.rpm
+│   ├── libappindicator-12.10.0-1.azl3.x86_64.rpm
 │   ├── libappstream-glib-0.8.3-1.azl3.x86_64.rpm
 │   ├── libass-0.13.0-1.azl3.x86_64.rpm
 │   ├── libcupsfilters-2.1.1-1.azl3.x86_64.rpm
@@ -155,7 +158,7 @@
 │   ├── mesa-libxatracker-devel-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-va-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── mesa-vulkan-drivers-24.0.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── mousepad-0.6.3-5.azl3.x86_64.rpm
+│   ├── mousepad-0.6.3-6.azl3.x86_64.rpm
 │   ├── mpv-0.38.0-1.azl3.x86_64.rpm
 │   ├── mtpaint-3.50-1.azl3.x86_64.rpm
 │   └── mugshot-0.4.3-1.azl3.x86_64.rpm
@@ -225,7 +228,7 @@
 │   └── wlroots-0.17.4-2.azl3.x86_64.rpm
 ├── x
 │   ├── xarchiver-0.5.4.25-2.azl3.x86_64.rpm
-│   ├── xcalc-1.1.2-1.azl3.x86_64.rpm
+│   ├── xcalc-1.1.4-1.azl3.x86_64.rpm
 │   ├── xcb-util-cursor-0.1.5-1.azl3.x86_64.rpm
 │   ├── xcb-util-errors-1.0.1-1.azl3.x86_64.rpm
 │   ├── xdg-user-dirs-0.18-2.azl3.x86_64.rpm
@@ -267,4 +270,4 @@
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 238 files
+26 directories, 241 files
