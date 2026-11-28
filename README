@@ -78,14 +78,13 @@
 ├── i
 │   ├── indoterm-0.8.3-1.azl3.x86_64.rpm
 │   ├── iptsd-3.1.0-1.azl3.x86_64.rpm
-│   └── iwd-applet-0.2.1-1.azl3.x86_64.rpm
+│   └── iwd-applet-0.2.2-1.azl3.x86_64.rpm
 ├── j
 │   └── jbig2dec-0.20-1.azl3.x86_64.rpm
 ├── k
 │   ├── kazam-2.0.0-2.azl3.x86_64.rpm
 │   ├── kernel-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-devel-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
-│   ├── kernel-drivers-accessibility-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-drivers-extras-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-drivers-gpu-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
 │   ├── kernel-drivers-intree-amdgpu-6.6.161.1-2STANDALONE.azl3.x86_64.rpm
@@ -220,6 +219,9 @@
 │   ├── upower-0.99.11-6STANDALONE.azl3.x86_64.rpm
 │   └── usbutils-017-2STANDALONE.azl3.x86_64.rpm
 ├── v
+│   ├── vte-profile-0.74.2-8STANDALONE.azl3.x86_64.rpm
+│   ├── vte291-0.74.2-8STANDALONE.azl3.x86_64.rpm
+│   └── vte291-devel-0.74.2-8STANDALONE.azl3.x86_64.rpm
 ├── w
 │   ├── waydroid-1.6.1-1.azl3.x86_64.rpm
 │   ├── waydroid-selinux-1.6.1-1.azl3.x86_64.rpm
@@ -270,4 +272,4 @@
     ├── zram-999-2.azl3.noarch.rpm
     └── zsh-plugins-0.8.1-1.azl3.noarch.rpm
 
-26 directories, 241 files
+26 directories, 243 files
